@@ -1,0 +1,4269 @@
+,predict_score
+AIDS-Associated Nephropathy,0.99473274
+"Empyema, Pleural",0.9923075
+Herpes Labialis,0.99136966
+"Empyema, Tuberculous",0.98905313
+"Granuloma, Giant Cell",0.9849893
+Gonorrhea,0.98351824
+Spondylitis,0.9830817
+Discitis,0.9830817
+"Arthritis, Infectious",0.98308164
+Herpes Genitalis,0.982961
+Bisphosphonate-Associated Osteonecrosis of the Jaw,0.98266613
+Warts,0.9826287
+Condylomata Acuminata,0.9825456
+Erysipelas,0.9823822
+Sjogren's Syndrome,0.98193306
+Periapical Abscess,0.9813646
+Cellulitis,0.98110425
+Osteomyelitis,0.981038
+Lupus Nephritis,0.98053694
+Erythema Induratum,0.979533
+"Tuberculosis, Cutaneous",0.97949106
+"Leishmaniasis, Cutaneous",0.9794858
+Chlamydia Infections,0.97912824
+Lupus Vulgaris,0.9790838
+Periodontal Abscess,0.97901404
+"Skin Diseases, Parasitic",0.9784261
+Erythema Chronicum Migrans,0.97828436
+"Skin Diseases, Bacterial",0.9781956
+"Bone Diseases, Infectious",0.9781414
+"Skin Diseases, Infectious",0.97804034
+Mumps,0.9779041
+Erythema Infectiosum,0.9778553
+Lemierre Syndrome,0.97781205
+Ludwig's Angina,0.97713053
+Staphylococcal Skin Infections,0.9771015
+"Arthritis, Reactive",0.9768901
+"Syphilis, Cutaneous",0.975815
+"Stomatitis, Herpetic",0.9756735
+Periostitis,0.9755775
+Exanthema Subitum,0.97548664
+"Angiomatosis, Bacillary",0.975174
+Schistosomiasis haematobia,0.9750624
+"Tuberculosis, Oral",0.974579
+Buruli Ulcer,0.97452796
+"Candidiasis, Oral",0.97446954
+Leishmaniasis,0.97434235
+Staphylococcal Scalded Skin Syndrome,0.9742644
+"Tuberculosis, Renal",0.9741544
+"Tuberculosis, Osteoarticular",0.97412455
+Tinea Capitis,0.97400236
+"Focal Infection, Dental",0.97381413
+Onchocerciasis,0.97377324
+Hyalohyphomycosis,0.9733219
+Sporotrichosis,0.9731064
+Paronychia,0.9725613
+Syphilis,0.97220635
+"Sexually Transmitted Diseases, Bacterial",0.9721378
+Dental Pulp Necrosis,0.9719893
+Furunculosis,0.9719484
+Mycetoma,0.9719095
+Pulmonary Infarction,0.97149557
+Herpes Simplex,0.9705846
+"Skin Diseases, Viral",0.9705846
+Hematuria,0.9703934
+"Arthritis, Rheumatoid",0.9701464
+Larva Migrans,0.97014046
+Impetigo,0.9700307
+"Tuberculosis, Spinal",0.96971303
+Molluscum Contagiosum,0.9686455
+Fusariosis,0.96847713
+Puerperal Infection,0.9683063
+Bacteremia,0.96674013
+Lymphogranuloma Venereum,0.9643518
+"Arthritis, Juvenile",0.9631062
+Chronic Kidney Disease-Mineral and Bone Disorder,0.96287537
+Sexually Transmitted Diseases,0.96192795
+Fungemia,0.96179676
+Parasitemia,0.9612148
+Viremia,0.96091276
+Asymptomatic Infections,0.9606942
+Empyema,0.95958686
+Suppuration,0.9595523
+Abscess,0.9595523
+Salivary Calculi,0.95940197
+"Arthritis, Psoriatic",0.957922
+Rheumatic Diseases,0.9579114
+Osteochondritis,0.9579113
+Soft Tissue Infections,0.9570179
+Hemorrhagic Fever with Renal Syndrome,0.9562645
+Osteopoikilosis,0.9556836
+Bacteroidaceae Infections,0.95526594
+Kaposi Varicelliform Eruption,0.9534019
+Psoas Abscess,0.952866
+Hantavirus Infections,0.9520229
+"Jaw, Edentulous, Partially",0.9514581
+Salmonella Infections,0.94999593
+Craniomandibular Disorders,0.9499841
+Temporomandibular Joint Disorders,0.9499841
+Temporomandibular Joint Dysfunction Syndrome,0.9499841
+Mandibular Diseases,0.9499841
+Yersinia Infections,0.9499482
+Schistosomiasis,0.9497762
+Babesiosis,0.9496776
+Diabetic Foot,0.94900084
+Pott Puffy Tumor,0.9489418
+"Abortion, Septic",0.9481045
+Catheter-Related Infections,0.94783163
+Herpes Zoster,0.94779634
+Zoonoses,0.94777757
+Chikungunya Fever,0.9473165
+Helicobacter Infections,0.94703907
+"Leprosy, Multibacillary",0.9470198
+"Leprosy, Lepromatous",0.94701904
+Alphavirus Infections,0.9468683
+Blister,0.946224
+Enoplida Infections,0.9461721
+Adenophorea Infections,0.9461721
+"Jaw, Edentulous",0.9460674
+Rheumatic Fever,0.9460439
+Femur Head Necrosis,0.9454608
+Bacteroides Infections,0.94534904
+Togaviridae Infections,0.94534385
+Anaplasmosis,0.94523036
+Salivary Gland Calculi,0.9450568
+"Communicable Diseases, Imported",0.9450078
+Zoster Sine Herpete,0.9449744
+Gas Gangrene,0.9448514
+"Leprosy, Borderline",0.9446552
+"Gingivitis, Necrotizing Ulcerative",0.94424284
+Salivary Duct Calculi,0.9438108
+Ecthyma,0.94376105
+Melioidosis,0.9437381
+Pasteurella Infections,0.9435705
+Sepsis,0.9435247
+Communicable Diseases,0.9435246
+"Leprosy, Paucibacillary",0.9431642
+Foot Diseases,0.94304276
+Burkholderia Infections,0.9427496
+Filoviridae Infections,0.9427103
+"Hemorrhagic Fever, Ebola",0.94267607
+Clostridium Infections,0.9424356
+Rat-Bite Fever,0.94203424
+"Thyroiditis, Suppurative",0.941924
+"Leprosy, Tuberculoid",0.94185805
+Trichinellosis,0.9418551
+Loiasis,0.94156957
+Superinfection,0.9415349
+Campylobacter Infections,0.94148266
+Enterobacteriaceae Infections,0.9414826
+Myiasis,0.9414247
+Poxviridae Infections,0.94136405
+Phlebotomus Fever,0.9409498
+Nail-Patella Syndrome,0.94092673
+Schistosomiasis mansoni,0.94086385
+Zika Virus Infection,0.94072956
+"Communicable Diseases, Emerging",0.9406791
+Mycobacterium avium-intracellulare Infection,0.940495
+Focal Infection,0.94027436
+Coinfection,0.94027054
+Fusobacterium Infections,0.9402169
+Fusobacteriaceae Infections,0.9402151
+Tinea Versicolor,0.9401823
+Chlamydophila Infections,0.94018227
+Coccidioidomycosis,0.94006157
+Q Fever,0.939968
+Varicella Zoster Virus Infection,0.93996584
+Brucellosis,0.93996525
+Leprosy,0.9399651
+"Mycobacterium Infections, Nontuberculous",0.93996465
+Herpesviridae Infections,0.93996465
+Flaviviridae Infections,0.93996465
+Mycobacterium Infections,0.93996465
+Coronavirus Infections,0.93996465
+Tick-Borne Diseases,0.93996465
+Gram-Positive Bacterial Infections,0.93996465
+Tetanus,0.93996465
+Actinomycetales Infections,0.93996465
+Spirochaetales Infections,0.93996465
+Mycoplasmatales Infections,0.93996465
+Mycoplasma Infections,0.93996465
+"Hemorrhagic Fevers, Viral",0.93996465
+Infections,0.93996465
+Virus Diseases,0.93996465
+Vector Borne Diseases,0.93996465
+Arbovirus Infections,0.93996465
+Opportunistic Infections,0.93996465
+Aspergillosis,0.93996465
+Chickenpox,0.93996465
+Tuberculosis,0.93996465
+Cestode Infections,0.93996465
+DNA Virus Infections,0.93996465
+Dengue,0.93996465
+Nidovirales Infections,0.93996465
+Coronaviridae Infections,0.93996465
+Gram-Negative Bacterial Infections,0.93996465
+Bacterial Infections,0.93996465
+Flavivirus Infections,0.93996465
+Bacterial Infections and Mycoses,0.93996465
+Borrelia Infections,0.93996465
+Lyme Disease,0.93996465
+Staphylococcal Infections,0.93996465
+RNA Virus Infections,0.93996465
+Tuberculoma,0.93996346
+Echinococcosis,0.9399632
+Taeniasis,0.93996257
+Nocardia Infections,0.9399624
+Chlamydiaceae Infections,0.93996215
+Epstein-Barr Virus Infections,0.9399617
+Bartonellaceae Infections,0.9399611
+Bartonella Infections,0.9399611
+Rickettsiaceae Infections,0.93996096
+Cysticercosis,0.93995994
+Treponemal Infections,0.9399524
+Histoplasmosis,0.93994284
+Bunyaviridae Infections,0.9399422
+Typhoid Fever,0.9399315
+Rickettsia Infections,0.9399177
+"Tuberculosis, Miliary",0.9398999
+Parasitic Diseases,0.93978727
+Cryptococcosis,0.9397868
+Roseolovirus Infections,0.93978584
+Coxsackievirus Infections,0.93977106
+Invasive Fungal Infections,0.9397709
+"Leishmaniasis, Visceral",0.9396469
+Echovirus Infections,0.9396416
+Scrub Typhus,0.93960655
+Klebsiella Infections,0.9395515
+"Typhus, Endemic Flea-Borne",0.9395095
+Tularemia,0.9394097
+Zygomycosis,0.9393847
+Vaccinia,0.93937755
+Severe Dengue,0.9392971
+Psittacosis,0.9392725
+Rabies,0.9392405
+Yellow Fever,0.93920857
+Paratyphoid Fever,0.9391668
+"Hemorrhagic Fever, Crimean",0.93906415
+Mucormycosis,0.9390433
+Corynebacterium Infections,0.9390337
+Spotted Fever Group Rickettsiosis,0.9389935
+Rhabdoviridae Infections,0.938946
+Plague,0.9389286
+Actinomycosis,0.93891037
+"Hand, Foot and Mouth Disease",0.93890405
+Diphtheria,0.93888223
+Boutonneuse Fever,0.93874544
+Candidiasis,0.93868464
+Picornaviridae Infections,0.93853843
+Anaplasmataceae Infections,0.93851745
+Ehrlichiosis,0.9382209
+Relapsing Fever,0.9379357
+"Pleurodynia, Epidemic",0.9379072
+Paragonimiasis,0.93731767
+Toxocariasis,0.9371542
+Leg Length Inequality,0.93645775
+Dracunculiasis,0.9364184
+Cross Infection,0.936414
+Femoracetabular Impingement,0.9364113
+Osteonecrosis,0.93640995
+Intervertebral Disc Displacement,0.93640995
+Abdominal Abscess,0.936206
+"Malaria, Vivax",0.936035
+Filariasis,0.9353798
+Measles,0.9351619
+Pseudomonas Infections,0.9351598
+Spirurida Infections,0.9351344
+Leptospirosis,0.93510365
+"Granulomatosis, Orofacial",0.9350915
+"Malaria, Falciparum",0.9350889
+Mononegavirales Infections,0.9350822
+Morbillivirus Infections,0.9350815
+Tumor Virus Infections,0.9350751
+Euglenozoa Infections,0.93507195
+Malaria,0.9350692
+Streptococcal Infections,0.9350692
+Mycoses,0.9350692
+Orthomyxoviridae Infections,0.9350692
+Paramyxoviridae Infections,0.935053
+Amebiasis,0.93482244
+Anthrax,0.9345501
+"Influenza, Human",0.9344964
+Retroviridae Infections,0.9343914
+Keloid,0.9342541
+Trematode Infections,0.9341812
+Yersinia pseudotuberculosis Infections,0.9341633
+Pestivirus Infections,0.93361026
+Mediastinal Emphysema,0.93335855
+Silicotuberculosis,0.9332135
+Hemarthrosis,0.9331685
+Bordetella Infections,0.93289614
+Rhabditida Infections,0.9328935
+Pneumocystis Infections,0.9319987
+Polyomavirus Infections,0.93194366
+Strongyloidiasis,0.93183625
+Protozoan Infections,0.9317955
+Community-Acquired Infections,0.93177295
+"Tuberculosis, Lymph Node",0.9314692
+Rocky Mountain Spotted Fever,0.93129957
+"Trypanosomiasis, African",0.9310529
+Arenaviridae Infections,0.93085027
+Jaw Diseases,0.9307629
+Toxoplasmosis,0.930369
+Azotemia,0.9295392
+Smallpox,0.9294381
+Paracoccidioidomycosis,0.9288945
+Legionnaires' Disease,0.928332
+"Polychondritis, Relapsing",0.9276916
+"Lichen Planus, Oral",0.92751986
+Proteus Infections,0.92740786
+Pasteurellaceae Infections,0.92667747
+"Typhus, Epidemic Louse-Borne",0.92642915
+Respiratory Syncytial Virus Infections,0.92592317
+Pneumovirus Infections,0.92591226
+Eosinophilic Granuloma,0.9258232
+Scarlet Fever,0.92545694
+Diabetic Nephropathies,0.92534894
+"Pneumonia, Pneumococcal",0.92529726
+Epiglottitis,0.92521405
+Rubulavirus Infections,0.92410177
+Legionellosis,0.9234593
+Listeriosis,0.9232027
+Helminthiasis,0.9230615
+Enterovirus Infections,0.9230615
+Pneumococcal Infections,0.9230603
+Tracheobronchomalacia,0.9228914
+Polymyalgia Rheumatica,0.922775
+Bacillaceae Infections,0.92180586
+Vibrio Infections,0.9206575
+Alopecia,0.91991806
+"Pneumonia, Staphylococcal",0.9191477
+Granuloma Annulare,0.9187868
+Bacteriuria,0.9185649
+Tracheomalacia,0.9184922
+Escherichia coli Infections,0.9183219
+Haemophilus Infections,0.9182092
+"Aneurysm, Infected",0.9181831
+"Glomerulonephritis, IGA",0.9174311
+"Glomerulonephritis, Membranous",0.917431
+"Glomerulonephritis, Membranoproliferative",0.9173722
+"Bronchitis, Chronic",0.9168792
+"Syphilis, Latent",0.91608125
+Astroviridae Infections,0.91472703
+"Still's Disease, Adult-Onset",0.9146627
+"Syphilis, Cardiovascular",0.9146409
+"Lung Diseases, Parasitic",0.9144617
+Whooping Cough,0.91430557
+Pneumonia,0.913465
+Cartilage Diseases,0.9131179
+Sparganosis,0.91229355
+"Tuberculosis, Pleural",0.9122079
+Diphyllobothriasis,0.91206205
+Severe Acute Respiratory Syndrome,0.91178334
+Hantavirus Pulmonary Syndrome,0.9111681
+Cyclosporiasis,0.9107902
+Flavobacteriaceae Infections,0.910704
+Bronchial Fistula,0.9105922
+Respiratory Tract Fistula,0.9103197
+Respiratory Aspiration,0.91011584
+Pleuropneumonia,0.909601
+Tracheitis,0.9094285
+"Endocarditis, Subacute Bacterial",0.9094108
+African Swine Fever,0.9091245
+Invasive Pulmonary Aspergillosis,0.90908504
+Lassa Fever,0.90889716
+"Echinococcosis, Pulmonary",0.9088305
+Lice Infestations,0.9081786
+"Granuloma, Respiratory Tract",0.90814376
+Cholera,0.9080807
+Trichomonas Infections,0.9074126
+Enterobiasis,0.9072513
+Lung Abscess,0.90609235
+"Hyperostosis, Sternocostoclavicular",0.90543175
+Pulmonary Aspergillosis,0.9051263
+Pleurisy,0.9049561
+"Pneumonia, Pneumocystis",0.9048034
+"Pneumonia, Viral",0.90478325
+Common Cold,0.9047722
+"Pneumonia, Mycoplasma",0.904766
+"Lung Diseases, Fungal",0.9047659
+Respiratory Tract Infections,0.9047659
+"Pneumonia, Bacterial",0.9047659
+Bronchiolitis,0.9047656
+"Tuberculosis, Pulmonary",0.90476525
+Mastoiditis,0.9036471
+Maxillary Diseases,0.9029243
+Cardiovirus Infections,0.9029239
+Rotavirus Infections,0.9027699
+Reoviridae Infections,0.9027698
+Microsporidiosis,0.90255964
+Sarcocystosis,0.9020134
+Caliciviridae Infections,0.9018909
+Tietze's Syndrome,0.90118295
+Gnathostomiasis,0.90064514
+"Protozoan Infections, Animal",0.90013283
+Bronchitis,0.8987419
+"Pneumonia, Lipid",0.89809775
+Papillomavirus Infections,0.8975634
+"Ecthyma, Contagious",0.8974714
+Lentivirus Infections,0.89532167
+Bronchopneumonia,0.8951497
+Weil Disease,0.8946458
+"Tuberculosis, Urogenital",0.8939199
+Entamoebiasis,0.8934486
+Hemothorax,0.8933494
+Serratia Infections,0.8930199
+Secernentea Infections,0.8926933
+Rheumatoid Nodule,0.8925848
+Slow Virus Diseases,0.8914912
+"Larva Migrans, Visceral",0.8913951
+"Endocarditis, Bacterial",0.8904952
+Cardiovascular Infections,0.8904952
+Foot-and-Mouth Disease,0.8902862
+Isosporiasis,0.8902211
+"Pneumonia, Aspiration",0.89001185
+Salmonella Food Poisoning,0.8887819
+Flea Infestations,0.8859912
+Blastomycosis,0.88433224
+Trichomonas Vaginitis,0.8837009
+Tungiasis,0.88057876
+Monkeypox,0.87943286
+Laboratory Infection,0.8793286
+"Parasitic Diseases, Animal",0.8789792
+Dental Fistula,0.8784617
+"Tuberculosis, Cardiovascular",0.8771234
+Oxyuriasis,0.87711143
+Oxyurida Infections,0.87711143
+Urinary Tract Infections,0.87699604
+Behcet Syndrome,0.8765538
+Extensively Drug-Resistant Tuberculosis,0.8761611
+Hemopneumothorax,0.87566423
+Torovirus Infections,0.87419474
+"Bronchiolitis, Viral",0.8680579
+Classical Swine Fever,0.8678486
+"Sexually Transmitted Diseases, Viral",0.86784077
+Post-Lyme Disease Syndrome,0.8645909
+Ectoparasitic Infestations,0.86423814
+Mastitis,0.8617302
+Trench Fever,0.86153215
+Stevens-Johnson Syndrome,0.861356
+HIV Seropositivity,0.8598292
+Rheumatoid Vasculitis,0.8595376
+Tennis Elbow,0.85838014
+Elbow Tendinopathy,0.85837543
+Tendinopathy,0.8583418
+Shoulder Impingement Syndrome,0.8583418
+Hookworm Infections,0.85424113
+Marburg Virus Disease,0.85233396
+Bovine Virus Diarrhea-Mucosal Disease,0.85207725
+AIDS Dementia Complex,0.8507582
+Galactorrhea,0.84149015
+Tooth Injuries,0.8412719
+"Candidiasis, Vulvovaginal",0.84126985
+Bone Anteversion,0.8412173
+Hypodermyiasis,0.840006
+Joint Dislocations,0.8383447
+Shoulder Dislocation,0.837885
+"Diabetes Mellitus, Type 1",0.83644295
+Granulomatous Mastitis,0.83473134
+Ascaridida Infections,0.8344195
+Erysipelothrix Infections,0.8332609
+Ossification of Posterior Longitudinal Ligament,0.8329753
+Fracture Dislocation,0.8313997
+AIDS-Related Complex,0.8305404
+"Arthritis, Experimental",0.82719964
+"Skin Diseases, Papulosquamous",0.826718
+Enthesopathy,0.82520735
+Tooth Fractures,0.8240376
+Psoriasis,0.82283896
+Waterborne Diseases,0.8215632
+"Actinomycosis, Cervicofacial",0.81809676
+Foot Ulcer,0.8123621
+Leg Ulcer,0.8115238
+Panniculitis,0.8115171
+Tooth Diseases,0.80974185
+"Tooth, Impacted",0.80929077
+Dental Pulp Diseases,0.80878425
+"Fasciitis, Plantar",0.8071406
+"Fasciitis, Necrotizing",0.8063781
+HIV Infections,0.8061334
+Pulpitis,0.8058585
+Carbuncle,0.8057553
+HTLV-I Infections,0.80387866
+Deltaretrovirus Infections,0.8037958
+AIDS-Related Opportunistic Infections,0.80357707
+Bronchomalacia,0.8007685
+Cracked Tooth Syndrome,0.80075043
+"Tuberculosis, Bovine",0.79993165
+Exostoses,0.7994147
+Skin Ulcer,0.797983
+Bone Malalignment,0.7970333
+Radiodermatitis,0.796486
+"Osteoarthritis, Hip",0.79468703
+Patellar Dislocation,0.7946099
+Nephrosis,0.7945823
+"Glomerulosclerosis, Focal Segmental",0.7945823
+Kidney Diseases,0.7945823
+Glomerulonephritis,0.7945823
+"Nephritis, Interstitial",0.7945823
+Renal Insufficiency,0.7945823
+Nephritis,0.7945823
+Nephrotic Syndrome,0.7945823
+"Renal Insufficiency, Chronic",0.7945823
+Pyelonephritis,0.7945732
+Pyelitis,0.7945558
+"Nephrosis, Lipoid",0.79449105
+Patellofemoral Pain Syndrome,0.7942676
+Acute Kidney Injury,0.79410636
+Anti-Glomerular Basement Membrane Disease,0.79401857
+Osteitis,0.7935436
+Osteochondrosis,0.79230785
+"Osteoarthritis, Spine",0.79222596
+Fasciitis,0.79140687
+Crystal Arthropathies,0.7913492
+Sacroiliitis,0.79132664
+Intervertebral Disc Degeneration,0.7913249
+Joint Instability,0.7913249
+Lordosis,0.7913249
+Spondylolysis,0.7913249
+Myofascial Pain Syndromes,0.7913249
+"Osteoarthritis, Knee",0.7913249
+Ankylosis,0.7913249
+Spinal Stenosis,0.7913249
+Musculoskeletal Diseases,0.7913249
+Joint Diseases,0.7913249
+Spondylosis,0.7913249
+Spondylarthropathies,0.7913249
+Spondylarthritis,0.7913249
+Osteoarthritis,0.7913249
+Bone Diseases,0.7913249
+"Spondylitis, Ankylosing",0.7913249
+Arthritis,0.7913249
+Bursitis,0.7913249
+Spinal Curvatures,0.7913249
+Spondylolisthesis,0.7913249
+Spinal Diseases,0.7913249
+Synovitis,0.79132485
+Periarthritis,0.7912874
+Spinal Osteochondrosis,0.79080963
+"Hypertension, Renal",0.7901058
+Nephrosclerosis,0.79006237
+Scoliosis,0.7896742
+"Tuberculosis, Endocrine",0.7894769
+Dentin Sensitivity,0.7891685
+Nasal Polyps,0.7890888
+Acneiform Eruptions,0.78877556
+Osteolysis,0.78851986
+Acne Vulgaris,0.7884934
+Angioedema,0.78849125
+Scheuermann Disease,0.78839755
+"Chondromatosis, Synovial",0.78835934
+Osteophyte,0.7881496
+Autoimmune Hypophysitis,0.78717744
+Mansonelliasis,0.7866663
+Sunburn,0.7863102
+Sebaceous Gland Diseases,0.7860928
+Periapical Diseases,0.7796202
+Lichen Planus,0.77938414
+Periapical Periodontitis,0.77937853
+"Dermatitis, Contact",0.7762685
+"Kidney Tubular Necrosis, Acute",0.7752156
+Osteochondritis Dissecans,0.7738135
+Petrositis,0.77253234
+Burning Mouth Syndrome,0.77162784
+"Hypertension, Renovascular",0.77106017
+"Kidney Failure, Chronic",0.7707749
+"Dental Occlusion, Traumatic",0.7705077
+Parvoviridae Infections,0.7701384
+"Fibrous Dysplasia, Monostotic",0.7701186
+Chondrocalcinosis,0.7685028
+Myositis Ossificans,0.7682669
+Kyphosis,0.76820195
+Myoglobinuria,0.7680212
+"Panniculitis, Nodular Nonsuppurative",0.767465
+Cardio-Renal Syndrome,0.7669166
+Lichenoid Eruptions,0.76615316
+Tenosynovitis,0.765398
+Tooth Abrasion,0.76517284
+Balkan Nephropathy,0.76434004
+"Conjunctivitis, Viral",0.7642336
+Melorheostosis,0.7632979
+"Skin Diseases, Eczematous",0.76266956
+"Dermatitis, Occupational",0.76261234
+Acquired Hyperostosis Syndrome,0.7610613
+Pityriasis Rubra Pilaris,0.7606224
+Tooth Resorption,0.75905013
+"Tooth, Nonvital",0.75867295
+"Granuloma, Laryngeal",0.75764954
+Eye Infections,0.75717556
+Orchitis,0.75705695
+Skin and Connective Tissue Diseases,0.7562494
+Skin Diseases,0.7562494
+"Myelitis, Transverse",0.7560379
+Dermatitis,0.75586426
+Erythema Multiforme,0.75586426
+"Skin Diseases, Vesiculobullous",0.75586426
+Sweet Syndrome,0.7558642
+Latent Tuberculosis,0.7534007
+Corneal Ulcer,0.7526654
+"Dermatitis, Phototoxic",0.7515907
+Solitary Kidney,0.7507524
+"Gastroenteritis, Transmissible, of Swine",0.75017476
+Alopecia Areata,0.7497555
+Scalp Dermatoses,0.74954176
+Chancroid,0.7493618
+Pericoronitis,0.749106
+Pyoderma Gangrenosum,0.749099
+Glossitis,0.7478625
+Neurodermatitis,0.7471483
+Granulomatosis with Polyangiitis,0.7455923
+Pityriasis,0.745005
+"Eye Infections, Parasitic",0.7447207
+"Lupus Erythematosus, Discoid",0.7445827
+Rosacea,0.7444656
+Leg Dermatoses,0.7443375
+"Keratitis, Herpetic",0.7442796
+"Dermatitis, Exfoliative",0.7441489
+Eczema,0.7440576
+Ephemeral Fever,0.7440113
+Herpangina,0.74399555
+Parapsoriasis,0.74348265
+Diabetic Angiopathies,0.7434342
+"Lupus Erythematosus, Cutaneous",0.743197
+Necrobiotic Disorders,0.74286586
+Mixed Connective Tissue Disease,0.74240196
+Hypotrichosis,0.74187577
+Photosensitivity Disorders,0.7418753
+Sweat Gland Diseases,0.7418752
+Tongue Diseases,0.7410875
+"Dermatitis, Seborrheic",0.7406118
+Hip Dislocation,0.7405163
+Compartment Syndromes,0.7403983
+Pyoderma,0.73932457
+Hypohidrosis,0.73932356
+"Dermatitis, Perioral",0.73814553
+"Hepatitis C, Chronic",0.7377116
+Pythiosis,0.7369456
+"Glossitis, Benign Migratory",0.73659796
+Facial Dermatoses,0.7365129
+"Scleroderma, Localized",0.73645484
+Hand Dermatoses,0.73588306
+Hyperhidrosis,0.7358695
+"Scleroderma, Systemic",0.7355263
+"Scleroderma, Diffuse",0.7355263
+Connective Tissue Diseases,0.73550737
+Exanthema,0.7355073
+"Skin Diseases, Vascular",0.7355073
+Pityriasis Lichenoides,0.73549193
+Rotator Cuff Tear Arthropathy,0.73474735
+"Multiple Sclerosis, Chronic Progressive",0.73439884
+Polyradiculoneuropathy,0.7343237
+Guillain-Barre Syndrome,0.7343237
+"Multiple Sclerosis, Relapsing-Remitting",0.7343237
+Multiple Sclerosis,0.7343237
+Autoimmune Diseases of the Nervous System,0.7343237
+"Demyelinating Autoimmune Diseases, CNS",0.7343237
+Stiff-Person Syndrome,0.7343234
+"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",0.73428917
+"Encephalomyelitis, Acute Disseminated",0.7339803
+Legg-Calve-Perthes Disease,0.73310065
+Nematode Infections,0.73120916
+Hydrarthrosis,0.73105526
+Folliculitis,0.73062146
+Bell Palsy,0.72837406
+Pressure Ulcer,0.7280781
+Cheilitis,0.7278202
+Keratoacanthoma,0.7263107
+"Stomatitis, Denture",0.72610664
+Diabetes Complications,0.7244451
+Ciliophora Infections,0.7237183
+Nail Diseases,0.7236937
+Lichen Sclerosus et Atrophicus,0.7231026
+"Neuritis, Autoimmune, Experimental",0.7229114
+Herpes Zoster Ophthalmicus,0.72130466
+"Eye Infections, Viral",0.72130466
+Scleredema Adultorum,0.7206439
+Coccidiosis,0.7196582
+"Myasthenia Gravis, Autoimmune, Experimental",0.71905065
+Acanthamoeba Keratitis,0.71863854
+Neisseriaceae Infections,0.71659416
+Dental Pulp Calcification,0.71620494
+Bruxism,0.71561086
+Mite Infestations,0.7146374
+Noma,0.7105425
+Hereditary Angioedema Types I and II,0.7087643
+Oral Ulcer,0.7064936
+Stomatitis,0.7061195
+Candidemia,0.7060212
+"Scleroderma, Limited",0.70390147
+Oral Submucous Fibrosis,0.703741
+"Tuberculosis, Male Genital",0.7037336
+Intertrigo,0.70328224
+"Tooth Eruption, Ectopic",0.70246816
+"Dysentery, Bacillary",0.702322
+Osteosclerosis,0.70098054
+"Mouth, Edentulous",0.6999274
+Root Resorption,0.69969165
+Heartwater Disease,0.69846296
+Submandibular Gland Diseases,0.6972695
+Joint Loose Bodies,0.69708055
+"Tuberculosis, Multidrug-Resistant",0.6965283
+Osteopetrosis,0.6963378
+"Tuberculosis, Ocular",0.69515437
+Chancre,0.69505775
+"Lupus Vasculitis, Central Nervous System",0.69361615
+"Mucinosis, Follicular",0.6930173
+Parotitis,0.6901874
+"Leukoencephalitis, Acute Hemorrhagic",0.69007176
+Epidermolysis Bullosa,0.688401
+Tonsillitis,0.68525815
+"Encephalomyelitis, Autoimmune, Experimental",0.68007356
+Malignant Catarrh,0.6773259
+Chondromalacia Patellae,0.67705464
+Posterior Tibial Tendon Dysfunction,0.67526555
+Tooth Mobility,0.67373246
+"Stomatitis, Aphthous",0.6697292
+Osteitis Deformans,0.6691029
+Erysipeloid,0.66793966
+Moraxellaceae Infections,0.6669862
+Sialadenitis,0.666257
+"Pyelonephritis, Xanthogranulomatous",0.6650306
+De Quervain Disease,0.6645863
+Mouth Diseases,0.6643791
+Parotid Diseases,0.664362
+Stomatognathic Diseases,0.6643568
+Salivary Gland Diseases,0.6643568
+Xerostomia,0.6643568
+Kidney Papillary Necrosis,0.6638661
+"Tooth, Unerupted",0.66378754
+"Arthropathy, Neurogenic",0.6603433
+Hepatitis C,0.65913105
+"Nervous System Autoimmune Disease, Experimental",0.6582852
+Meningococcal Infections,0.65749866
+"Joint Deformities, Acquired",0.6574406
+Spinal Osteophytosis,0.65616846
+Hip Contracture,0.65531075
+Hyperostosis,0.65503556
+"Osteoarthropathy, Secondary Hypertrophic",0.6545631
+"Hyperostosis, Diffuse Idiopathic Skeletal",0.6542102
+Rhabdomyolysis,0.6541618
+"Hand Deformities, Acquired",0.6540714
+Contracture,0.65407133
+"Foot Deformities, Acquired",0.65407133
+Foot Deformities,0.65407133
+Serum Sickness,0.65356106
+Cytomegalovirus Infections,0.65337354
+Genu Varum,0.65156597
+Pyuria,0.64881146
+Enchondromatosis,0.6485884
+Bone Resorption,0.6481884
+Heel Spur,0.6449235
+Acinetobacter Infections,0.6443152
+Pharyngitis,0.64354706
+Whipple Disease,0.6433917
+Salter-Harris Fractures,0.64280695
+Colorado Tick Fever,0.63674957
+"Pericarditis, Tuberculous",0.6366159
+"Eye Infections, Bacterial",0.6361366
+Felty Syndrome,0.63379025
+"Pneumonia, Necrotizing",0.6337798
+"Pleuropneumonia, Contagious",0.6327908
+"Eye Infections, Fungal",0.6315294
+Rinderpest,0.6308859
+Cryptosporidiosis,0.62885034
+Respirovirus Infections,0.6286015
+Mikulicz' Disease,0.6229628
+Blastocystis Infections,0.6229276
+Trombiculiasis,0.62112844
+"Eczema, Dyshidrotic",0.6198894
+"Toxoplasmosis, Ocular",0.6148603
+Ancylostomiasis,0.6109857
+Vulvitis,0.6102355
+Prognathism,0.6086173
+Yaws,0.6063747
+"Hemorrhagic Fever, American",0.605134
+Adenoviridae Infections,0.6038157
+Encephalitozoonosis,0.60049045
+"Keratitis, Dendritic",0.59844214
+Pelvic Infection,0.5982251
+Vulvar Diseases,0.59695345
+Chlamydial Pneumonia,0.59474975
+Vesico-Ureteral Reflux,0.59330434
+"Dermatitis, Irritant",0.5919563
+Extravasation of Diagnostic and Therapeutic Materials,0.5902232
+"Peritonitis, Tuberculous",0.58731115
+"Polycystic Kidney, Autosomal Dominant",0.58711696
+"Alkalosis, Respiratory",0.5868572
+Giardiasis,0.57954603
+Pelvic Inflammatory Disease,0.57800853
+Foreign-Body Reaction,0.5778095
+"Dermatitis, Photoallergic",0.57627255
+"Enterocolitis, Pseudomembranous",0.5755943
+Diabetic Retinopathy,0.5753076
+Epididymitis,0.5749345
+Hydroa Vacciniforme,0.57469034
+"Intestinal Diseases, Parasitic",0.5745483
+Takayasu Arteritis,0.57412416
+Polyarteritis Nodosa,0.57412404
+"Panniculitis, Lupus Erythematosus",0.57411855
+"Vasculitis, Leukocytoclastic, Cutaneous",0.5739251
+"Liver Abscess, Pyogenic",0.5734793
+"Angioedemas, Hereditary",0.57235736
+"Dermatitis, Allergic Contact",0.5691951
+"Fluorosis, Dental",0.5681839
+Erythrokeratodermia Variabilis,0.5667975
+Blackwater Fever,0.56666034
+"Leukoplakia, Hairy",0.56639194
+Vesicular Stomatitis,0.5651198
+Malignant Atrophic Papulosis,0.5649533
+Anisakiasis,0.5633184
+Wissler's Syndrome,0.56106436
+Equine Infectious Anemia,0.5607915
+Murine Acquired Immunodeficiency Syndrome,0.56061417
+Argyria,0.5594533
+"Pasteurellosis, Pneumonic",0.55793893
+Renal Artery Obstruction,0.5577763
+Herpes Zoster Oticus,0.55415654
+"Dysentery, Amebic",0.55381405
+Gingival Pocket,0.55303925
+Penile Induration,0.5529771
+Prosthesis-Related Infections,0.5510271
+"Brucellosis, Bovine",0.5496117
+"Granuloma, Foreign-Body",0.5486794
+Hyperparathyroidism,0.5474051
+Oophoritis,0.5464784
+"Pemphigoid, Bullous",0.5453816
+Peritonsillar Abscess,0.54421955
+"Pemphigoid, Benign Mucous Membrane",0.5426725
+Mandibular Neoplasms,0.54149556
+"Tuberculosis, Hepatic",0.54142535
+Dental Leakage,0.54048043
+"Liver Abscess, Amebic",0.53714406
+Perinephritis,0.53468883
+Subphrenic Abscess,0.53425467
+"Pneumonia, Rickettsial",0.5337216
+Miliaria,0.53335285
+Thyroiditis,0.5305408
+Thyrotoxicosis,0.5302115
+Osteomalacia,0.52528185
+Otomycosis,0.5241996
+Anuria,0.5237205
+Liver Abscess,0.52353454
+Dental Pulp Exposure,0.52341276
+Parathyroid Diseases,0.5218787
+"Hepatitis, Viral, Animal",0.52134067
+Jaw Cysts,0.5212663
+"Pneumonia, Atypical Interstitial, of Cattle",0.5187803
+"Hip Dislocation, Congenital",0.51686466
+Vaginismus,0.516002
+"Tongue, Fissured",0.5151337
+Anterior Compartment Syndrome,0.51464826
+Cytomegalovirus Retinitis,0.51394916
+"Osteolysis, Essential",0.5130439
+Flatfoot,0.5127385
+Forearm Injuries,0.5096807
+Orbital Cellulitis,0.50901073
+Distemper,0.5078683
+"Liver Diseases, Parasitic",0.5072203
+Dermatitis Herpetiformis,0.50683165
+Multiple Chemical Sensitivity,0.5036183
+Osteoporotic Fractures,0.50125766
+Endophthalmitis,0.50024295
+"Diastasis, Muscle",0.5001232
+HTLV-II Infections,0.49563164
+"Thyroiditis, Subacute",0.49511725
+Pemphigus,0.49208292
+Immersion Foot,0.49132293
+Hyperthyroidism,0.4898474
+Goiter,0.48953527
+Environmental Illness,0.4888255
+"Lupus Erythematosus, Systemic",0.48467082
+Shoulder Fractures,0.48422158
+Wrist Injuries,0.48355573
+"Fractures, Ununited",0.48352587
+Ankle Injuries,0.4835209
+"Fractures, Compression",0.48352087
+Knee Injuries,0.4835192
+"Fractures, Spontaneous",0.48351914
+"Fractures, Stress",0.4835191
+Back Injuries,0.48351905
+Spinal Fractures,0.48351905
+Spinal Injuries,0.48351905
+Shoulder Injuries,0.48351905
+Arm Injuries,0.48351905
+Rotator Cuff Injuries,0.48351905
+Sprains and Strains,0.48351905
+Cumulative Trauma Disorders,0.48351905
+Tendon Injuries,0.48351905
+Occupational Injuries,0.48351905
+Athletic Injuries,0.48351905
+Soft Tissue Injuries,0.48331273
+Pseudarthrosis,0.48328486
+Tibial Meniscus Injuries,0.4832731
+Jaw Neoplasms,0.48324108
+Polycystic Kidney Diseases,0.4830991
+Schistosomiasis japonica,0.48262224
+Foot Injuries,0.48179078
+Achlorhydria,0.48064357
+Rift Valley Fever,0.47815147
+Henipavirus Infections,0.4778881
+Anterior Cruciate Ligament Injuries,0.4767719
+Sick Building Syndrome,0.47027558
+Hand Injuries,0.46925145
+"Pneumonia of Calves, Enzootic",0.46881032
+Vaccine-Preventable Diseases,0.46849295
+Vulvovaginitis,0.46798047
+Dientamoebiasis,0.46702254
+Cryopyrin-Associated Periodic Syndromes,0.4658207
+"Candidiasis, Invasive",0.465745
+Injection Site Reaction,0.46526963
+Urticaria,0.46422777
+"Fractures, Malunited",0.4616401
+Pyomyositis,0.459538
+Pulmonary Veno-Occlusive Disease,0.45745054
+Avulavirus Infections,0.45722038
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis,0.45321947
+"Sialometaplasia, Necrotizing",0.45237845
+"Pneumonia of Swine, Mycoplasmal",0.45237517
+Lumpy Skin Disease,0.4514806
+Linear IgA Bullous Dermatosis,0.45123133
+Acrodermatitis,0.4507062
+Bluetongue,0.45032984
+Intraabdominal Infections,0.44968984
+Periapical Granuloma,0.4483791
+Hereditary Autoinflammatory Diseases,0.44664484
+Tooth Avulsion,0.446165
+Dermatomycoses,0.44366032
+Onycholysis,0.4429393
+Odontogenic Cysts,0.4417551
+Drug Hypersensitivity,0.4411376
+Arthus Reaction,0.44031706
+Hereditary Complement Deficiency Diseases,0.4401467
+"Sarcoma, Kaposi",0.4389438
+Retrobulbar Hemorrhage,0.43823302
+Ascariasis,0.43762204
+Puerperal Disorders,0.43472606
+Leg Injuries,0.43380928
+Bovine Respiratory Disease Complex,0.43270355
+Pinta,0.42640564
+"Vaginosis, Bacterial",0.4261685
+Border Disease,0.42478234
+"Sprue, Tropical",0.42436832
+"Strongyle Infections, Equine",0.42349875
+Peritonitis,0.42263198
+"Goiter, Substernal",0.42246825
+Dicrocoeliasis,0.4219926
+"Diverticulum, Esophageal",0.4209454
+Disorders of Environmental Origin,0.41907817
+Acute Generalized Exanthematous Pustulosis,0.41715857
+Retropharyngeal Abscess,0.41698733
+Cowpox,0.4169102
+"Aspergillosis, Allergic Bronchopulmonary",0.41596577
+Reproductive Tract Infections,0.4117508
+Myelitis,0.40791973
+Encephalomyelitis,0.40791973
+Lyme Neuroborreliosis,0.4079192
+Central Nervous System Viral Diseases,0.4079185
+Neurosyphilis,0.40789813
+"Tuberculosis, Central Nervous System",0.40787083
+"Encephalitis, Viral",0.40779343
+Infectious Encephalitis,0.4077762
+"Encephalitis, Arbovirus",0.4077741
+"Adenovirus Infections, Human",0.407749
+Setariasis,0.40770328
+Central Nervous System Helminthiasis,0.4075973
+Corneal Endothelial Cell Loss,0.40745384
+Poliomyelitis,0.40745145
+"Encephalitis, Tick-Borne",0.40708107
+"Paraparesis, Tropical Spastic",0.40679848
+"Tuberculosis, Meningeal",0.40583435
+Myasthenia Gravis,0.40421298
+"Fractures, Comminuted",0.4036798
+Protein-Losing Enteropathies,0.40347424
+"Otitis Media, Suppurative",0.40311018
+Anti-N-Methyl-D-Aspartate Receptor Encephalitis,0.40291488
+Tabes Dorsalis,0.40252718
+Colitis,0.40186945
+"Tuberculosis, Laryngeal",0.40134227
+West Nile Fever,0.39946207
+Neurocysticercosis,0.39867786
+Rupture,0.39832965
+Monteggia's Fracture,0.39766976
+Perimeningeal Infections,0.39733183
+"Hypersensitivity, Delayed",0.3970475
+Schnitzler Syndrome,0.3967602
+Lambert-Eaton Myasthenic Syndrome,0.39664862
+Occupational Diseases,0.39579725
+Acquired Immunodeficiency Syndrome,0.39544308
+Whiplash Injuries,0.39441052
+"Goiter, Nodular",0.39377397
+Thyroid Diseases,0.39258456
+Hashimoto Disease,0.3923302
+"Elephantiasis, Filarial",0.39152932
+Kyasanur Forest Disease,0.39152277
+Bifidobacteriales Infections,0.39152277
+"Uveitis, Suppurative",0.387055
+Proctitis,0.386293
+Graft vs Host Disease,0.383417
+Nairobi Sheep Disease,0.38293278
+Actinobacillus Infections,0.3821925
+Rickets,0.3807738
+Neuroschistosomiasis,0.3794117
+Scabies,0.37921786
+Finger Injuries,0.3791752
+Hemorrhagic Septicemia,0.37893993
+"Tuberculoma, Intracranial",0.3788963
+"Leukoplakia, Oral",0.37861174
+Neck Injuries,0.3755174
+"Meningitis, Viral",0.37524807
+Ulna Fractures,0.37390792
+Malabsorption Syndromes,0.3739071
+Newcastle Disease,0.37284142
+Dentigerous Cyst,0.3725686
+Glanders,0.3715906
+African Horse Sickness,0.3715906
+Intra-Articular Fractures,0.37138397
+Humeral Fractures,0.3706988
+Geotrichosis,0.3701222
+Fournier Gangrene,0.36996242
+"Tuberculosis, Gastrointestinal",0.3697927
+Cerebral Phaeohyphomycosis,0.3697549
+Food Hypersensitivity,0.36959308
+"Hypersensitivity, Immediate",0.36959302
+Immunoproliferative Disorders,0.36959302
+Hypersensitivity,0.36959302
+Autoimmune Diseases,0.36959302
+Immune System Diseases,0.36959302
+Common Variable Immunodeficiency,0.36926103
+"Osteoarthropathy, Primary Hypertrophic",0.36923945
+"Fractures, Closed",0.36856443
+"Encephalopathy, Bovine Spongiform",0.36812913
+Nephrogenic Fibrosing Dermopathy,0.36760536
+Staphylococcal Food Poisoning,0.3661155
+Macrophage Activation Syndrome,0.3657332
+Visna,0.3653491
+Swayback,0.36522102
+"Conjunctivitis, Bacterial",0.3649062
+Louping Ill,0.36474866
+Creutzfeldt-Jakob Syndrome,0.3643302
+Salivary Gland Fistula,0.36338228
+Panophthalmitis,0.36333448
+Prion Diseases,0.36312416
+Immunologic Deficiency Syndromes,0.3630092
+Immunoglobulin G4-Related Disease,0.36210063
+Dipetalonema Infections,0.36180425
+Platybasia,0.3603782
+Peptic Ulcer Hemorrhage,0.35872412
+"Lower Extremity Deformities, Congenital",0.3584516
+Talipes,0.3584516
+"Foot Deformities, Congenital",0.3584516
+Clubfoot,0.3584473
+Equinus Deformity,0.3584142
+Collagen Diseases,0.35804188
+Antiphospholipid Syndrome,0.35707968
+Enterotoxemia,0.35659772
+Tooth Discoloration,0.35642952
+Gingivitis,0.35630447
+Latex Hypersensitivity,0.3558579
+Erythema Nodosum,0.3555496
+Drug Eruptions,0.3555417
+Meningoencephalitis,0.3536151
+Glycosuria,0.35351926
+Maxillary Neoplasms,0.35350734
+Acanthocheilonemiasis,0.35346442
+Toxascariasis,0.35346442
+King's Evil,0.35346442
+"Hemorrhagic Fever, Omsk",0.35346442
+Cytophagaceae Infections,0.35346442
+Aliivibrio Infections,0.35346442
+Cadmium Poisoning,0.35170496
+Urinary Bladder Calculi,0.35158616
+Peste-des-Petits-Ruminants,0.35031164
+"Encephalomyelitis, Enzootic Porcine",0.35031164
+Fowlpox,0.35005027
+Milk Hypersensitivity,0.34903702
+Immune Reconstitution Inflammatory Syndrome,0.34856856
+Kounis Syndrome,0.34804225
+Phaeohyphomycosis,0.3461795
+Chilblains,0.34531882
+"Tuberculosis, Splenic",0.3439452
+Urologic Diseases,0.34273964
+Immune Complex Diseases,0.34235227
+Actinobacillosis,0.3422268
+Morgellons Disease,0.33967167
+"Enteritis, Transmissible, of Turkeys",0.33846757
+"Myxomatosis, Infectious",0.337614
+Theileriasis,0.33760244
+Piscirickettsiaceae Infections,0.33749652
+Scleromyxedema,0.33726856
+"Carcinoma, Merkel Cell",0.3371997
+Necrobiosis Lipoidica,0.33660892
+Dourine,0.33476773
+Mink Viral Enteritis,0.33476773
+"Hemorrhagic Syndrome, Bovine",0.33476773
+Monieziasis,0.33476773
+Swine Vesicular Disease,0.33476773
+Vesicular Exanthema of Swine,0.33476773
+"Reticuloendotheliosis, Avian",0.33476773
+Duodenitis,0.3344
+Cat-Scratch Disease,0.3337113
+"Ectromelia, Infectious",0.33347225
+"Dermatitis, Toxicodendron",0.33318615
+Feline Infectious Peritonitis,0.3318274
+Mediastinitis,0.3298732
+Appendicitis,0.32959038
+Feline Acquired Immunodeficiency Syndrome,0.3288951
+Duodenal Ulcer,0.32739198
+Fascioloidiasis,0.3273328
+Femoral Neck Fractures,0.32670614
+Central Nervous System Fungal Infections,0.32578704
+"Skin Diseases, Genetic",0.32575905
+Duodenal Diseases,0.32565612
+Gastritis,0.3255878
+Peptic Ulcer,0.3255285
+Retropneumoperitoneum,0.3249308
+"Colonic Diseases, Functional",0.3209527
+"Fractures, Bone",0.32081282
+Cold Injury,0.32079935
+Frostbite,0.3207987
+Screw Worm Infection,0.32067943
+Rib Fractures,0.32063678
+Camurati-Engelmann Syndrome,0.31929564
+"Burns, Chemical",0.31894386
+Esophageal Fistula,0.31886896
+Poult Enteritis Mortality Syndrome,0.31788003
+"Wounds, Stab",0.31611204
+Corneal Diseases,0.31531325
+Uveal Diseases,0.31531325
+Hand-Foot Syndrome,0.3152711
+"Leukoencephalopathy, Progressive Multifocal",0.31453934
+"Burns, Electric",0.31416845
+"Glaucoma, Angle-Closure",0.31407744
+Inflammatory Bowel Diseases,0.31302762
+Crohn Disease,0.31242475
+"Tuberculosis, Avian",0.31235796
+Burns,0.312154
+Decompression Sickness,0.31091028
+Proctocolitis,0.30890143
+Dysentery,0.30673674
+Enzootic Bovine Leukosis,0.30514693
+Asbestosis,0.30502078
+Bronchial Diseases,0.30424
+"Lung Diseases, Interstitial",0.30424
+Bronchial Hyperreactivity,0.3040164
+Biliary Dyskinesia,0.3023106
+Echinostomiasis,0.3022564
+Celiac Disease,0.30202854
+Healthcare-Associated Pneumonia,0.30144185
+Swine Erysipelas,0.30111104
+Pityriasis Rosea,0.30080158
+Cystocele,0.29974982
+Osteoradionecrosis,0.29949522
+Trachoma,0.29943466
+"Pneumonia, Progressive Interstitial, of Sheep",0.29637888
+Postpoliomyelitis Syndrome,0.2955696
+Hammer Toe Syndrome,0.29381007
+"Toxoplasmosis, Cerebral",0.2933861
+"Depression, Postpartum",0.2916015
+Electric Injuries,0.2915637
+Xerophthalmia,0.2914085
+Wounds and Injuries,0.28977317
+Radiation Injuries,0.28977317
+"Wounds, Penetrating",0.289773
+Bronchiolitis Obliterans,0.28717047
+"Fatigue Syndrome, Chronic",0.2851686
+Stomach Ulcer,0.28499502
+"Colitis, Collagenous",0.2842943
+Conjunctivitis,0.28364274
+Iliotibial Band Syndrome,0.28348112
+Prurigo,0.28321588
+Anaphylaxis,0.2822346
+"Hepatitis, Animal",0.28180784
+Bone Retroversion,0.28144455
+"Pulmonary Adenomatosis, Ovine",0.28118956
+Foot Rot,0.28110844
+Immunoglobulin Light-chain Amyloidosis,0.2808252
+"Glaucoma, Neovascular",0.28076297
+Thoracic Diseases,0.28067732
+Dupuytren Contracture,0.28045416
+Cryptogenic Organizing Pneumonia,0.2804424
+Drug Hypersensitivity Syndrome,0.28023872
+Tooth Loss,0.28011304
+Venous Insufficiency,0.2795695
+Shellfish Poisoning,0.2789067
+"Conjunctivitis, Acute Hemorrhagic",0.2780007
+"Encephalitis, Varicella Zoster",0.2779202
+Laryngitis,0.27702105
+"Hemorrhagic Septicemia, Viral",0.2768231
+"Gastritis, Atrophic",0.2764401
+Mediastinal Diseases,0.27630132
+"Pneumonia, Ventilator-Associated",0.2752588
+Periodontal Cyst,0.27497745
+"Tuberculosis, Female Genital",0.27266413
+Silicosis,0.27266222
+Persian Gulf Syndrome,0.27264476
+Bronchial Spasm,0.27223387
+Solitary Pulmonary Nodule,0.27223304
+"Plasma Cell Granuloma, Pulmonary",0.2722124
+Needlestick Injuries,0.27197725
+Irritable Bowel Syndrome,0.27149054
+Keratoconjunctivitis,0.27138886
+Radicular Cyst,0.27074206
+Pterygium,0.27063417
+Hyperostosis Frontalis Interna,0.26877275
+Necatoriasis,0.26766536
+Iritis,0.26695865
+Essential Hypertension,0.2663688
+Feline Panleukopenia,0.26618505
+Entropion,0.26589227
+"Meningitis, Fungal",0.2649269
+"Encephalitis, Japanese",0.2648313
+"Colitis, Ulcerative",0.26455566
+"Thyroiditis, Autoimmune",0.2642576
+"Echinococcosis, Hepatic",0.26344645
+"Colitis, Lymphocytic",0.26299524
+"Colitis, Microscopic",0.2621585
+Mucositis,0.26200533
+Recurrent Laryngeal Nerve Injuries,0.2600449
+Asthenopia,0.25945127
+Gastrointestinal Hemorrhage,0.25832802
+Scleral Diseases,0.2582165
+Idiopathic Interstitial Pneumonias,0.25819802
+Orbital Pseudotumor,0.25815594
+Scleritis,0.2580957
+Enophthalmos,0.25801164
+Conjunctival Diseases,0.25796184
+Uveitis,0.2579535
+Exophthalmos,0.2579475
+Panuveitis,0.2579475
+Eyelid Diseases,0.2579475
+Lacrimal Apparatus Diseases,0.2579475
+Dry Eye Syndromes,0.2579475
+Blepharospasm,0.2579475
+Orbital Diseases,0.2579475
+"Uveitis, Anterior",0.2579475
+Mydriasis,0.25794184
+"Meningitis, Cryptococcal",0.2572607
+Blepharitis,0.25691372
+Botulism,0.2555358
+Crush Syndrome,0.25524005
+"Malaria, Avian",0.25510427
+Neuroaspergillosis,0.2545374
+Laryngeal Nerve Injuries,0.25358605
+Limbic Encephalitis,0.2533184
+Choroid Diseases,0.25277293
+Dacryocystitis,0.25171643
+Retinitis,0.25072688
+Nasopharyngitis,0.25052035
+Pneumoconiosis,0.2501332
+Hepatitis A,0.24956986
+Parakeratosis,0.24920583
+Clonorchiasis,0.24857977
+"Polyendocrinopathies, Autoimmune",0.24786219
+Oral Fistula,0.2461994
+Hymenolepiasis,0.24603114
+Borna Disease,0.24452251
+Degloving Injuries,0.24376461
+Idiopathic Pulmonary Fibrosis,0.24269938
+Hepatitis E,0.24148944
+"Encephalitis, California",0.2411058
+"Helminthiasis, Animal",0.240008
+Acro-Osteolysis,0.23975182
+Fissure in Ano,0.2395815
+Erythromelalgia,0.23912737
+Heat Exhaustion,0.23907647
+Anthracosis,0.23814815
+Bird Fancier's Lung,0.23617363
+Lactose Intolerance,0.23551172
+Enteritis,0.2354722
+Contusions,0.23534247
+Vascular Calcification,0.23528606
+Tooth Attrition,0.23497146
+Hypocalcemia,0.23422757
+Hypokalemia,0.23422757
+Calcium Metabolism Disorders,0.23422757
+Magnesium Deficiency,0.23422754
+Ectropion,0.2340343
+Gastroenteritis,0.2337583
+Gitelman Syndrome,0.23373914
+Tracheal Stenosis,0.2336599
+Alkalosis,0.23341268
+Subdural Effusion,0.23332575
+Epidural Abscess,0.23304206
+Ureaplasma Infections,0.2330184
+"Auditory Diseases, Central",0.23295197
+Femoral Neoplasms,0.23281217
+Bronchiectasis,0.23254415
+Tracheal Diseases,0.23254183
+Porphyrias,0.23192465
+Bone Cysts,0.23119444
+Caplan Syndrome,0.2309145
+Hemoperitoneum,0.22914156
+Chiari-Frommel Syndrome,0.2288706
+Egg Hypersensitivity,0.22793454
+Salpingitis,0.22728479
+Pulmonary Alveolar Proteinosis,0.22725153
+Spinal Neoplasms,0.22633219
+Pulmonary Fibrosis,0.22603124
+"Hepatitis B, Chronic",0.22493252
+Retinal Artery Occlusion,0.22456253
+Acute Retroviral Syndrome,0.22444555
+Lathyrism,0.22384557
+"Retinal Necrosis Syndrome, Acute",0.2237759
+Farmer's Lung,0.22353104
+"Hepatitis, Autoimmune",0.22268927
+"Liver Cirrhosis, Alcoholic",0.22141764
+Emphysematous Cholecystitis,0.22088984
+Drug-Related Side Effects and Adverse Reactions,0.22060841
+HIV Enteropathy,0.22015885
+Steatorrhea,0.22004148
+Central Serous Chorioretinopathy,0.21995339
+Middle Lobe Syndrome,0.21994826
+Trichuriasis,0.21955678
+Osteitis Fibrosa Cystica,0.21884677
+Ciguatera Poisoning,0.21762344
+Mercury Poisoning,0.21716854
+Asthma,0.21712756
+Siderosis,0.2168318
+Giant Cell Tumor of Tendon Sheath,0.2168186
+Influenza in Birds,0.21622804
+Kuru,0.21599612
+"Synovitis, Pigmented Villonodular",0.21587268
+Granuloma Inguinale,0.21455461
+"Esophageal Spasm, Diffuse",0.2143878
+Infectious Bovine Rhinotracheitis,0.21435475
+Nut and Peanut Hypersensitivity,0.21419787
+"Wounds, Gunshot",0.21371546
+Fluoride Poisoning,0.2136493
+Fascioliasis,0.2136462
+"Pregnancy Complications, Infectious",0.21300891
+Dirofilariasis,0.21279642
+Ergotism,0.21052366
+Agricultural Workers' Diseases,0.21007726
+Eosinophilic Esophagitis,0.20974395
+Tick Toxicoses,0.20885396
+Oesophagostomiasis,0.20857468
+Dermatomyositis,0.20806566
+Muscle Neoplasms,0.20703587
+Wheat Hypersensitivity,0.20681375
+Varicose Ulcer,0.2067827
+"Pregnancy Complications, Parasitic",0.20535421
+"Encephalitis, Herpes Simplex",0.2051022
+Vestibular Neuronitis,0.2049442
+Tooth Wear,0.20486033
+"Lung, Hyperlucent",0.20347562
+Tracheoesophageal Fistula,0.20315576
+Keratoconjunctivitis Sicca,0.20234251
+Nut Hypersensitivity,0.2019105
+Giant Cell Arteritis,0.19987497
+"AIDS Arteritis, Central Nervous System",0.19835567
+Dictyocaulus Infections,0.19450718
+Vaginitis,0.19349056
+"Megacolon, Toxic",0.19280973
+Opisthorchiasis,0.192343
+Hip Injuries,0.19218549
+"Hepatitis, Viral, Human",0.1921319
+"Bone Cysts, Aneurysmal",0.19075233
+Xanthomatosis,0.19071689
+Pubic Symphysis Diastasis,0.19032288
+Dry Socket,0.18990335
+"Pulmonary Disease, Chronic Obstructive",0.18977231
+Spider Bites,0.1882253
+Foodborne Diseases,0.18784747
+Blepharoptosis,0.1876499
+Microstomia,0.1872777
+Birnaviridae Infections,0.18695822
+Tick Infestations,0.18667623
+Calcinosis,0.18663925
+Chromoblastomycosis,0.18617254
+Balantidiasis,0.18612882
+Desulfovibrionaceae Infections,0.18589461
+Bites and Stings,0.18581793
+Snake Bites,0.18580556
+Tick Bites,0.18566939
+Esophageal Achalasia,0.18511662
+Tooth Erosion,0.18493882
+Esophageal Motility Disorders,0.18471533
+Esophagitis,0.18471521
+"Esophagitis, Peptic",0.18471518
+Hallux Rigidus,0.18468687
+Angioid Streaks,0.18420997
+Poland Syndrome,0.1835621
+Hyperkalemia,0.18279451
+Tick Paralysis,0.1819821
+"Hepatitis, Chronic",0.18087134
+Central Nervous System Infections,0.180861
+"Substance Abuse, Intravenous",0.1799044
+Spermatic Cord Torsion,0.17969435
+Vitamin B 12 Deficiency,0.1792796
+Thiamine Deficiency,0.17927903
+Water-Electrolyte Imbalance,0.17927903
+Amyloidosis,0.17927903
+Vitamin B Deficiency,0.1792739
+"Vasculitis, Central Nervous System",0.17818078
+Insect Bites and Stings,0.17754295
+Chorioretinitis,0.17736956
+Adrenal Cortex Diseases,0.17698172
+Zenker Diverticulum,0.17688456
+Nasopharyngeal Diseases,0.17559299
+Hepatomegaly,0.17556915
+Neurogenic Bowel,0.17496926
+Gastroesophageal Reflux,0.17436641
+Chemically-Induced Disorders,0.17402795
+"Syphilis, Congenital",0.1739226
+"Cystitis, Interstitial",0.17290443
+Barotrauma,0.17274597
+Microscopic Polyangiitis,0.17179394
+Foreign Bodies,0.17119333
+Hydropneumothorax,0.17071646
+Enterocolitis,0.17023349
+"Wounds, Nonpenetrating",0.17021644
+"Ectodermal Dysplasia 1, Anhidrotic",0.1689479
+"Meningitis, Listeria",0.16846606
+Porcine Postweaning Multisystemic Wasting Syndrome,0.1671612
+Respiratory Hypersensitivity,0.1656087
+"Asthma, Exercise-Induced",0.16547146
+Urinary Fistula,0.16503349
+Retinal Vasculitis,0.16491431
+Beriberi,0.16327623
+Scorpion Stings,0.1632308
+Pulmonary Emphysema,0.1624124
+Esophageal Diseases,0.16228199
+Pulmonary Atelectasis,0.162096
+Urinary Bladder Fistula,0.16159007
+Melena,0.16155928
+Trichosporonosis,0.15991285
+Urinary Bladder Diseases,0.15972215
+"Empyema, Subdural",0.15961981
+Respiratory Tract Diseases,0.15889782
+"Uveitis, Intermediate",0.15865189
+Facial Nerve Diseases,0.15854093
+Hemosiderosis,0.15833834
+Facial Hemiatrophy,0.15790823
+"Meningitis, Escherichia coli",0.15785438
+"Encephalomyelitis, Equine",0.15774977
+Diverticulum,0.15679064
+"Uveitis, Posterior",0.15600374
+Upper Extremity Deep Vein Thrombosis,0.15597394
+Anus Diseases,0.15539375
+"Alveolitis, Extrinsic Allergic",0.15452784
+Trypanosomiasis,0.15426749
+Trigeminal Nerve Diseases,0.15426457
+Byssinosis,0.15408951
+Simian Acquired Immunodeficiency Syndrome,0.1537387
+"Psychoses, Alcoholic",0.1536648
+"Pancreatitis, Alcoholic",0.15352139
+"Positive-Pressure Respiration, Intrinsic",0.15342548
+Radiation Pneumonitis,0.15312031
+Pleural Effusion,0.15247628
+Paratuberculosis,0.15143716
+Balanitis,0.15127507
+Choroiditis,0.15094864
+Non-ST Elevated Myocardial Infarction,0.15089625
+Hepatitis D,0.1505275
+Hepatic Encephalopathy,0.14963394
+Facial Neuralgia,0.14941922
+Supraglottitis,0.14915207
+Trigeminal Neuralgia,0.14912003
+Dental Caries,0.14911467
+Morphine Dependence,0.14899707
+Lacrimal Duct Obstruction,0.1470105
+"Arthritis, Gouty",0.14494154
+Multiple Trauma,0.14491174
+"Liver Cirrhosis, Biliary",0.14482811
+Ascaridiasis,0.14448038
+Pharyngeal Diseases,0.14389637
+"Fractures, Open",0.14333999
+Lymphocytic Choriomeningitis,0.1433151
+Hematocolpos,0.14307481
+Familial Mediterranean Fever,0.14291462
+Bankart Lesions,0.14274627
+Ileal Diseases,0.1427376
+Ileitis,0.1424973
+Melkersson-Rosenthal Syndrome,0.1418063
+"Salmonella Infections, Animal",0.14154142
+Erythrasma,0.14099813
+Heat Stroke,0.14091247
+"Sarcoma, Avian",0.14031148
+Wound Infection,0.13976428
+Peanut Hypersensitivity,0.13961458
+"Trypanosomiasis, Bovine",0.13957143
+Dental Fissures,0.13905758
+Duodenogastric Reflux,0.13848853
+"Diverticulosis, Esophageal",0.13799396
+Collagenous Sprue,0.1378394
+Tooth Demineralization,0.13693476
+"Hepatitis, Infectious Canine",0.13666043
+Plagiocephaly,0.13654608
+Pulmonary Edema,0.13617048
+Familial Primary Pulmonary Hypertension,0.13556412
+Iridocorneal Endothelial Syndrome,0.13389766
+Pulmonary Embolism,0.13380164
+Lactation Disorders,0.13253084
+Ovarian Hyperstimulation Syndrome,0.13241693
+Myocardial Infarction,0.13190252
+Keratoconus,0.13185284
+Heavy Metal Poisoning,0.1318332
+Tooth Ankylosis,0.13161612
+Typhlitis,0.13150662
+Pyometra,0.13059336
+Eye Diseases,0.13015354
+Ocular Hypertension,0.1301535
+Glaucoma,0.13015348
+Ocular Hypotension,0.13005546
+Tinea Favosa,0.12987182
+Hamman-Rich Syndrome,0.12983796
+"Aortic Aneurysm, Abdominal",0.12970519
+"Glaucoma, Open-Angle",0.12960494
+Respiration Disorders,0.12953168
+"Hypertension, Pulmonary",0.12953168
+Respiratory Insufficiency,0.12953168
+Pachyonychia Congenita,0.128802
+Severe Combined Immunodeficiency,0.12862292
+Altitude Sickness,0.12830931
+Chylothorax,0.12826875
+Hydrothorax,0.12817645
+Microvascular Angina,0.12765619
+Gingival Diseases,0.12763163
+Hajdu-Cheney Syndrome,0.1274837
+Ventilator-Induced Lung Injury,0.12707853
+Acute Lung Injury,0.12707835
+Ethmoid Sinusitis,0.12702984
+Aortic Rupture,0.12701932
+"Leukemia, Feline",0.1266062
+"Respiratory Distress Syndrome, Adult",0.12590426
+Epidermolysis Bullosa Dystrophica,0.12576914
+"Fractures, Cartilage",0.12540287
+"Diverticulum, Colon",0.12533042
+"Fractures, Avulsion",0.12517238
+Coronary Artery Disease,0.124735475
+Coronary Disease,0.124735475
+Acute Coronary Syndrome,0.124735475
+Myocardial Ischemia,0.124735475
+Coronary Stenosis,0.124735
+Coronary Restenosis,0.12473202
+Poisoning,0.123476684
+Onychomycosis,0.12276411
+Pulmonary Arterial Hypertension,0.12251848
+Coronary Thrombosis,0.122119695
+"Hyperkeratosis, Epidermolytic",0.12177679
+Hepadnaviridae Infections,0.12149939
+"Porphyria, Acute Intermittent",0.12119958
+Central Nervous System Parasitic Infections,0.12116104
+Toxemia,0.12038079
+Brain Abscess,0.12022129
+Subacute Sclerosing Panencephalitis,0.11986011
+"Encephalomyelitis, Eastern Equine",0.119136184
+Central Nervous System Bacterial Infections,0.11896896
+Hip Fractures,0.118600845
+Labyrinth Diseases,0.1185613
+Vestibular Diseases,0.1185613
+Meniere Disease,0.11856079
+Endolymphatic Hydrops,0.11855069
+Anetoderma,0.11809459
+Periodontitis,0.11803898
+Esophageal Stenosis,0.11724129
+Crush Injuries,0.11712748
+Berylliosis,0.11576083
+Capillary Leak Syndrome,0.115743876
+Mesenteric Lymphadenitis,0.11566532
+Abdominal Injuries,0.11467892
+Avian Leukosis,0.11381349
+Heroin Dependence,0.1135546
+"Rhinitis, Atrophic",0.113229334
+Aortitis,0.11257011
+Anthracosilicosis,0.112163156
+Shellfish Hypersensitivity,0.111617446
+Tarsal Coalition,0.11152178
+"Porphyrias, Hepatic",0.11132908
+Circoviridae Infections,0.111097336
+Epidermolysis Bullosa Simplex,0.11106095
+"Embolism, Cholesterol",0.11075196
+Tracheobronchomegaly,0.1106863
+Focal Nodular Hyperplasia,0.110494375
+Sinusitis,0.11027244
+Rhinitis,0.11027244
+Bone Neoplasms,0.1098097
+Stomach Diseases,0.10966188
+Silo Filler's Disease,0.10945326
+Porphyria Cutanea Tarda,0.109178394
+Thrombophlebitis,0.108946085
+Phlebitis,0.108944386
+"Aortic Aneurysm, Thoracic",0.10894194
+Coronary Vasospasm,0.10894194
+Vasculitis,0.10894194
+Arteritis,0.10894194
+Aneurysm,0.10894194
+Thrombosis,0.10894194
+Aortic Diseases,0.10894194
+Systemic Vasculitis,0.10894194
+Aortic Arch Syndromes,0.10894194
+Aortic Aneurysm,0.10894194
+Vascular Diseases,0.10894194
+"Aneurysm, Dissecting",0.10894194
+Raynaud Disease,0.108941644
+Lung Injury,0.108815014
+Anticholinergic Syndrome,0.108757526
+"Hypertension, Malignant",0.1086992
+Coronary Occlusion,0.10810387
+Fibromuscular Dysplasia,0.10799256
+Inhalant Abuse,0.10789403
+Periodontal Diseases,0.10770774
+Dentofacial Deformities,0.10765928
+Maxillary Sinusitis,0.10739109
+Sphenoid Sinusitis,0.10660991
+Pneumothorax,0.106494695
+Airway Obstruction,0.10560763
+"Aneurysm, Ruptured",0.10556179
+Mallory-Weiss Syndrome,0.10506979
+Thromboembolism,0.10495341
+Endocarditis,0.10495341
+Embolism and Thrombosis,0.10495341
+Venous Thrombosis,0.10495341
+Frontal Sinusitis,0.10480651
+Trichostrongylosis,0.10445979
+"Hyperparathyroidism, Secondary",0.10436228
+Iridocyclitis,0.10434106
+Organophosphate Poisoning,0.103697926
+Propofol Infusion Syndrome,0.103416145
+Diabetic Neuropathies,0.10318485
+Reye Syndrome,0.10289377
+Porcine Reproductive and Respiratory Syndrome,0.10272148
+Coronary Aneurysm,0.102537334
+"Impotence, Vasculogenic",0.10212311
+White Coat Hypertension,0.10203621
+"Nose Deformities, Acquired",0.10161543
+Nasal Obstruction,0.10156149
+Epidermolysis Bullosa Acquisita,0.10096195
+Posterior Cervical Sympathetic Syndrome,0.10093397
+Trichiasis,0.10085282
+"Onchocerciasis, Ocular",0.10059881
+Euthyroid Sick Syndromes,0.09999016
+Arterivirus Infections,0.09998381
+Mycotoxicosis,0.099829465
+"Tongue, Hairy",0.09962168
+Retinal Vein Occlusion,0.09961438
+"Dentin, Secondary",0.09944382
+Retrocochlear Diseases,0.098354936
+"Hyalinosis, Systemic",0.09814331
+"Toxoplasmosis, Animal",0.0978584
+Facial Nerve Injuries,0.09769833
+Scimitar Syndrome,0.09762189
+Pleural Diseases,0.097164035
+"Lung Diseases, Obstructive",0.097164035
+Lung Diseases,0.097164035
+Rhinosporidiosis,0.09687972
+Mesomycetozoea Infections,0.09687972
+Cocaine-Related Disorders,0.09684828
+"Hyperostosis, Cortical, Congenital",0.09678498
+"Endocarditis, Non-Infective",0.09664062
+Ostertagiasis,0.09662017
+Heart Injuries,0.09660837
+Kallmann Syndrome,0.096508026
+Osteochondroma,0.09595078
+Lymphoma,0.095535785
+"Lymphoma, Non-Hodgkin",0.095535755
+"Leukemia, B-Cell",0.095535755
+"Leukemia, Lymphocytic, Chronic, B-Cell",0.095535696
+"Lymphoma, B-Cell",0.095535666
+Fallopian Tube Diseases,0.09548837
+Mesenteric Vascular Occlusion,0.095439404
+Haemonchiasis,0.09538987
+"Diverticulitis, Colonic",0.09537658
+Digital Dermatitis,0.09523791
+"Lymphoma, Large-Cell, Anaplastic",0.095012456
+"Panniculitis, Peritoneal",0.094695926
+Heat Stress Disorders,0.094557524
+Blind Loop Syndrome,0.09455243
+Phencyclidine Abuse,0.09442085
+Serotonin Syndrome,0.09419197
+Lip Neoplasms,0.094025016
+Femoral Fractures,0.09401536
+"Lymphoma, Follicular",0.093970776
+Iliac Aneurysm,0.093645036
+"Leukemia, Hairy Cell",0.09321162
+Acne Conglobata,0.09276211
+Lingual Nerve Injuries,0.09252295
+Intestinal Perforation,0.09242639
+Coxa Vara,0.092116565
+Gas Poisoning,0.091656595
+Submandibular Gland Neoplasms,0.09138608
+Lymphomatoid Granulomatosis,0.09121707
+Alkaptonuria,0.091089934
+Sunstroke,0.09101707
+"Plagiocephaly, Nonsynostotic",0.09089261
+Rubella,0.09044212
+Rubivirus Infections,0.09044212
+Vascular System Injuries,0.09033242
+"Lymphoma, T-Cell",0.08953068
+Strongylida Infections,0.08945051
+Trichostrongyloidiasis,0.08939761
+"Leukoedema, Oral",0.089368016
+Oroantral Fistula,0.08891314
+Plant Poisoning,0.08882615
+Graves Disease,0.08871001
+Salivary Gland Neoplasms,0.088609904
+Otitis,0.088591486
+Otosclerosis,0.08858457
+Parotid Neoplasms,0.08852655
+Hypercementosis,0.08840904
+Trigeminal Nerve Injuries,0.08801797
+"Lymphoma, Large-Cell, Immunoblastic",0.08780688
+Hereditary Angioedema Type III,0.08742529
+Respiratory Aspiration of Gastric Contents,0.08732179
+ST Elevation Myocardial Infarction,0.08695191
+"Conjunctivitis, Allergic",0.08694175
+Klippel-Trenaunay-Weber Syndrome,0.08689925
+"Lymphoma, T-Cell, Peripheral",0.08678934
+Pemphigoid Gestationis,0.08677408
+"Burnout, Professional",0.08675814
+Hand Deformities,0.086558014
+Carbon Monoxide Poisoning,0.086542875
+Nose Diseases,0.08642152
+Sphincter of Oddi Dysfunction,0.08636275
+Near Drowning,0.0863297
+"Acidosis, Respiratory",0.08623746
+"Lymphoma, B-Cell, Marginal Zone",0.08568102
+"Lymphoma, Large B-Cell, Diffuse",0.085226715
+Tinea,0.08520877
+Cochlear Diseases,0.08508873
+Foot Dermatoses,0.08440578
+Hypertensive Retinopathy,0.08430064
+Water Intoxication,0.08377254
+Chronic Urticaria,0.08363989
+POEMS Syndrome,0.083615184
+Otitis Externa,0.08254832
+"Lymphoma, AIDS-Related",0.082488
+Nonodontogenic Cysts,0.08229098
+Rectovaginal Fistula,0.08143744
+"Encephalomyelitis, Venezuelan Equine",0.08127329
+Dentin Dysplasia,0.08114019
+Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome,0.08112031
+Paranasal Sinus Diseases,0.08095184
+Vascular Fistula,0.08041492
+Smear Layer,0.08033815
+"Neoplasms, Unknown Primary",0.08021027
+"Leukemia, Plasma Cell",0.079711735
+Nicolau Syndrome,0.079484165
+"Ear Deformities, Acquired",0.07934782
+"Respiratory Distress Syndrome, Newborn",0.07934415
+Arthrogryposis,0.07921913
+Vestibulocochlear Nerve Diseases,0.07917687
+Root Caries,0.07906121
+Peritoneal Fibrosis,0.07880941
+Dens in Dente,0.07869539
+"Shock, Septic",0.07847476
+Drug Overdose,0.07847184
+Respiratory System Abnormalities,0.078464866
+Chemical and Drug Induced Liver Injury,0.07814622
+Budd-Chiari Syndrome,0.077995926
+Colonic Diseases,0.07707313
+Focal Epithelial Hyperplasia,0.07684749
+Mesial Movement of Teeth,0.0767684
+Rheumatic Nodule,0.076393336
+Intestinal Obstruction,0.07627571
+Alcoholism,0.07612848
+Pneumoperitoneum,0.07572886
+Hypervitaminosis A,0.07562637
+Heavy Chain Disease,0.07540646
+"Meningitis, Pneumococcal",0.0752739
+Central Nervous System Protozoal Infections,0.075180024
+Pneumatosis Cystoides Intestinalis,0.07517195
+Sialorrhea,0.0749585
+Infectious Mononucleosis,0.074860394
+Ear Diseases,0.074311286
+Immunoproliferative Small Intestinal Disease,0.07427397
+Leukemic Infiltration,0.07406512
+Hepatic Infarction,0.07401359
+Otorhinolaryngologic Diseases,0.07393667
+Esophageal Perforation,0.07390085
+"Pancreatitis, Chronic",0.07371244
+"Psychoses, Substance-Induced",0.07351607
+Plasmacytoma,0.07309851
+Lymphangioleiomyomatosis,0.072882116
+Animal Diseases,0.07243198
+Thyroid Crisis,0.07222977
+"Cholecystitis, Acute",0.07112837
+Myringosclerosis,0.07111406
+Otitis Media with Effusion,0.0708915
+Male Urogenital Diseases,0.07087329
+Peritoneal Diseases,0.07076523
+Diverticulitis,0.070730686
+Cecal Diseases,0.07063168
+Lecithin Cholesterol Acyltransferase Deficiency,0.0705882
+Hyperlipoproteinemia Type II,0.07043341
+Peliosis Hepatis,0.07039896
+Alcoholic Intoxication,0.07027817
+Cholecystitis,0.070079744
+Fecal Impaction,0.0700295
+Esophageal and Gastric Varices,0.069913805
+Pancreatitis,0.069844246
+Cholestasis,0.06978336
+Digestive System Diseases,0.06976691
+Ileus,0.069755346
+Pellagra,0.06962007
+Nasal Septal Perforation,0.06919098
+Leriche Syndrome,0.06895697
+"Leishmaniasis, Mucocutaneous",0.06895211
+"Neoplasm Regression, Spontaneous",0.068902075
+Lymphangiomyoma,0.068754435
+Cystitis,0.06875214
+"Rhinitis, Vasomotor",0.06867617
+Lightning Injuries,0.068401664
+Avitaminosis,0.06834212
+"Cholangitis, Sclerosing",0.06825566
+Opioid-Related Disorders,0.06803608
+"Hepatitis D, Chronic",0.06739411
+Liver Failure,0.06727725
+Knee Dislocation,0.0671877
+Intestinal Diseases,0.06710014
+Female Urogenital Diseases,0.066899836
+Essential Tremor,0.06687474
+Parkinsonian Disorders,0.06687409
+Parkinson Disease,0.06687409
+Motor Neuron Disease,0.06687409
+Hypoglossal Nerve Diseases,0.06686875
+Orbital Neoplasms,0.06658989
+Superior Mesenteric Artery Syndrome,0.066559106
+Glycogen Storage Disease Type V,0.06654814
+Thalamic Diseases,0.066506565
+Hepatic Insufficiency,0.066327006
+Hyperhomocysteinemia,0.06617755
+Mushroom Poisoning,0.066149056
+"Myasthenia Gravis, Neonatal",0.065898985
+Laryngeal Edema,0.06582111
+"Liver Failure, Acute",0.0657388
+"Bites, Human",0.06562081
+Neuroaxonal Dystrophies,0.065320104
+Uterine Prolapse,0.065223664
+Sigmoid Diseases,0.06501296
+Croup,0.06493202
+Diaphragmatic Eventration,0.06487504
+"Ophthalmia, Sympathetic",0.06484723
+Chylous Ascites,0.06464648
+Hodgkin Disease,0.06401232
+Tympanic Membrane Perforation,0.0636304
+Piedra,0.06361139
+Mouth Neoplasms,0.06361094
+Lipoid Proteinosis of Urbach and Wiethe,0.06351137
+Aniseikonia,0.063435525
+Milk Sickness,0.06318951
+Tendon Entrapment,0.0631797
+"Meningitis, Bacterial",0.06312615
+Hypophysitis,0.063075334
+Synovial Cyst,0.06305066
+"Osteoma, Osteoid",0.063049376
+Female Urogenital Diseases and Pregnancy Complications,0.062763095
+Intestinal Polyposis,0.06241575
+Intestinal Volvulus,0.062206864
+"Enterocolitis, Neutropenic",0.0620071
+Colonic Pseudo-Obstruction,0.06164536
+Exocrine Pancreatic Insufficiency,0.06151557
+Hepatitis B,0.061316103
+Neoplasm Invasiveness,0.061193883
+Labyrinthitis,0.060437053
+Mycosis Fungoides,0.060406834
+Diverticular Diseases,0.060386002
+Urethral Stricture,0.060358614
+Priapism,0.06027776
+Iron Overload,0.060243696
+Acantholysis,0.06021282
+"Leishmaniasis, Diffuse Cutaneous",0.060186118
+Alternariosis,0.060186118
+Conducted Energy Weapon Injuries,0.06005901
+Glossoptosis,0.06004852
+"Lymphoma, T-Cell, Cutaneous",0.0597665
+Osteoblastoma,0.059509426
+Chilaiditi Syndrome,0.05945742
+Urinary Bladder Neck Obstruction,0.05909878
+Thromboangiitis Obliterans,0.05902025
+Urethral Obstruction,0.058922946
+Urinary Retention,0.058863997
+Laryngeal Diseases,0.058653712
+Peripheral Vascular Diseases,0.058595866
+Keratitis,0.058517784
+Urethral Diseases,0.058324963
+Pericarditis,0.058226645
+"Gastritis, Hypertrophic",0.05813563
+Hepatolenticular Degeneration,0.058056116
+Acalculous Cholecystitis,0.0577994
+Osteoma,0.05754438
+"Paralysis, Obstetric",0.05752051
+Parametritis,0.057480186
+"Histiocytosis, Langerhans-Cell",0.057379246
+Bile Reflux,0.057376295
+Hyponatremia,0.057352692
+"Sarcoidosis, Pulmonary",0.05723715
+Klippel-Feil Syndrome,0.056931168
+MPTP Poisoning,0.05692032
+"Cholestasis, Intrahepatic",0.056808233
+"Pancreatitis, Acute Necrotizing",0.056473136
+Hematometra,0.056333214
+"Kidney Diseases, Cystic",0.05632302
+Stomach Volvulus,0.055768102
+Giant Cell Tumor of Bone,0.055535495
+Hypoalphalipoproteinemias,0.055517107
+Digestive System Fistula,0.055342406
+Dyspareunia,0.055125117
+"Liver Diseases, Alcoholic",0.054781348
+Chagas Disease,0.05454126
+Hypoaldosteronism,0.054534286
+Gastric Dilatation,0.05451727
+Lobomycosis,0.054449677
+Pancreatic Diseases,0.05443856
+Liver Diseases,0.05443856
+Gallbladder Diseases,0.05443856
+Gastric Outlet Obstruction,0.054438174
+Duodenal Obstruction,0.053940654
+Dandruff,0.053939372
+"Asthma, Aspirin-Induced",0.05392793
+Peptic Ulcer Perforation,0.05369258
+Dental Plaque,0.053640664
+Dental Deposits,0.05348167
+X-Linked Combined Immunodeficiency Diseases,0.053471476
+Acute Chest Syndrome,0.05342534
+"Diverticulosis, Colonic",0.053413212
+Pyloric Stenosis,0.053396285
+Periodontal Pocket,0.05284533
+Cystinosis,0.052645445
+Caroli Disease,0.052517712
+Gingival Overgrowth,0.05230519
+Giant Cell Tumors,0.052303314
+Smoldering Multiple Myeloma,0.05193451
+Proteostasis Deficiencies,0.05174032
+Stomach Rupture,0.051674366
+Fibromyalgia,0.051638603
+Coronary-Subclavian Steal Syndrome,0.05139172
+Preconception Injuries,0.050970137
+"Candidiasis, Cutaneous",0.05090803
+"Fatty Liver, Alcoholic",0.05072224
+Intestinal Fistula,0.050667495
+Tibial Fractures,0.050451845
+Blast Injuries,0.050367206
+Tarlov Cysts,0.050261617
+Ranula,0.05021611
+Pouchitis,0.05009392
+"Parkinson Disease, Postencephalitic",0.049940467
+Premature Ejaculation,0.049921364
+"Hepatitis, Alcoholic",0.049911678
+Urethritis,0.049691886
+Aggressive Periodontitis,0.049687117
+"Chemical and Drug Induced Liver Injury, Chronic",0.049627274
+Pelvic Floor Disorders,0.049624413
+Manganese Poisoning,0.049560666
+Carbon Tetrachloride Poisoning,0.049519986
+Periodontal Attachment Loss,0.049497455
+"Diastasis, Bone",0.049390405
+Osteochondrodysplasias,0.04933852
+"Granuloma, Lethal Midline",0.049212158
+Mononeuropathies,0.049050838
+Sciatic Neuropathy,0.049050838
+Neuromuscular Diseases,0.049050838
+Radiculopathy,0.049050838
+Nerve Compression Syndromes,0.049050838
+Peripheral Nervous System Diseases,0.049050838
+Complex Regional Pain Syndromes,0.04905072
+Reflex Sympathetic Dystrophy,0.04905051
+Vitiligo,0.048884183
+Gingival Hyperplasia,0.048819453
+Amphetamine-Related Disorders,0.048736095
+Fibrocystic Breast Disease,0.048702896
+Eclampsia,0.04870209
+Vulvar Lichen Sclerosus,0.0486798
+Kartagener Syndrome,0.048556805
+Intussusception,0.048452437
+"Colitis, Ischemic",0.04842958
+Autoimmune Pancreatitis,0.048380405
+Gastrointestinal Diseases,0.048376232
+Jejunal Diseases,0.048363745
+Angiomatosis,0.048342645
+Furcation Defects,0.048288494
+Ascorbic Acid Deficiency,0.048283935
+"Embolism, Air",0.04803279
+Fox-Fordyce Disease,0.04784304
+Intestinal Pseudo-Obstruction,0.04777354
+Vocal Cord Dysfunction,0.047647774
+Ainhum,0.047618747
+Isaacs Syndrome,0.047478765
+Muscular Diseases,0.047372907
+Myositis,0.047372907
+"Mastocytosis, Systemic",0.04722637
+Tension-Type Headache,0.047005504
+Multiple Myeloma,0.046993732
+Overbite,0.046895117
+Meige Syndrome,0.04683426
+"Hypertension, Portal",0.046818435
+Marchiafava-Bignami Disease,0.04678729
+Peri-Implantitis,0.046751976
+Choanal Atresia,0.04671222
+Diurnal Enuresis,0.04628074
+Ciliary Motility Disorders,0.04618907
+Ganglion Cysts,0.046157032
+Thoracic Injuries,0.0456993
+"Asthma, Occupational",0.04554376
+Mesenteric Ischemia,0.045508355
+Chondroblastoma,0.045488447
+"Diverticulum, Stomach",0.045424193
+Post-Traumatic Headache,0.045217723
+Kashin-Beck Disease,0.04516104
+"Fibromatosis, Aggressive",0.045016706
+Acute-On-Chronic Liver Failure,0.045015275
+Aleutian Mink Disease,0.044955134
+"Enterocolitis, Necrotizing",0.044715047
+Burkitt Lymphoma,0.04470411
+Alcohol Amnestic Disorder,0.044618934
+"Substance Abuse, Oral",0.04458776
+Substance Withdrawal Syndrome,0.04446757
+Alcohol-Related Disorders,0.04446757
+Substance-Related Disorders,0.04446757
+GATA2 Deficiency,0.044360906
+Hyperglycemic Hyperosmolar Nonketotic Coma,0.044143617
+"Pyloric Stenosis, Hypertrophic",0.04408148
+Gingival Recession,0.043847144
+End Stage Liver Disease,0.04380709
+Gout,0.0436846
+Orbital Myositis,0.04352787
+Meckel Diverticulum,0.043438554
+Postcholecystectomy Syndrome,0.043386072
+Polymyositis,0.04336056
+Arterial Occlusive Diseases,0.043329656
+Choledocholithiasis,0.043222845
+Polyradiculopathy,0.043213487
+Lead Poisoning,0.043185562
+"Porphyria, Hepatoerythropoietic",0.04315281
+Common Bile Duct Diseases,0.043128878
+Brachial Plexus Neuropathies,0.0430412
+Polyneuropathies,0.04304114
+Vagus Nerve Diseases,0.04304114
+Demyelinating Diseases,0.04304114
+Migraine Disorders,0.04304114
+Neuritis,0.04304114
+Headache Disorders,0.04304114
+Abducens Nerve Diseases,0.04304114
+Cerebral Palsy,0.04304114
+Trochlear Nerve Diseases,0.04304114
+"Headache Disorders, Primary",0.04304114
+Syringomyelia,0.04304114
+Spinal Cord Diseases,0.04304114
+"Meningitis, Aseptic",0.043040305
+Neuromuscular Junction Diseases,0.043040186
+Arachnoiditis,0.043037802
+Peroneal Neuropathies,0.043037146
+Trigeminal Autonomic Cephalalgias,0.043033242
+Cholecystolithiasis,0.042970955
+Fatty Liver,0.042969674
+Non-alcoholic Fatty Liver Disease,0.042969674
+Megacolon,0.042969674
+Cholelithiasis,0.042969555
+Bile Duct Diseases,0.04294771
+Cholangitis,0.04291275
+Autonomic Dysreflexia,0.042883784
+Migraine with Aura,0.04285553
+Bronchopulmonary Dysplasia,0.042779088
+Pre-Eclampsia,0.042775452
+"Shock, Traumatic",0.04268086
+Laryngocele,0.042629957
+Accessory Nerve Diseases,0.042548716
+Median Neuropathy,0.04254809
+Laryngismus,0.042535573
+Pruritus Vulvae,0.042525113
+Bronchopulmonary Sequestration,0.04245472
+"Headache Disorders, Secondary",0.04237196
+Opium Dependence,0.04215154
+"Cholestasis, Extrahepatic",0.0419904
+Tooth Migration,0.04185942
+"Limb Deformities, Congenital",0.04172665
+Cluster Headache,0.041690737
+Epidural Neoplasms,0.04160565
+Skull Neoplasms,0.04155594
+Migraine without Aura,0.04153803
+Skull Base Neoplasms,0.04152578
+Radial Neuropathy,0.041382343
+"Parkinson Disease, Secondary",0.041362047
+Mirizzi Syndrome,0.041156203
+"Embolism, Paradoxical",0.04115367
+"Cystic Adenomatoid Malformation of Lung, Congenital",0.041041255
+Narcotic-Related Disorders,0.041033447
+Cranial Nerve Diseases,0.040923417
+Rumination Syndrome,0.040828854
+Hepatitis,0.04082188
+Dihydropyrimidine Dehydrogenase Deficiency,0.040637255
+Neuromyelitis Optica,0.04056725
+Miller Fisher Syndrome,0.04056588
+Brachial Plexus Neuritis,0.040382475
+Paraproteinemias,0.040329307
+Lymphoproliferative Disorders,0.040329307
+Castleman Disease,0.040289044
+Biliary Tract Diseases,0.04018116
+Cholesteatoma,0.04008445
+Vulvodynia,0.040057898
+Tibial Neuropathy,0.039916158
+Uveomeningoencephalitic Syndrome,0.039893627
+Endometritis,0.03986615
+Ulnar Neuropathies,0.039562076
+"Muscular Atrophy, Spinal",0.039519966
+Gingival Hypertrophy,0.039310604
+Persistent Fetal Circulation Syndrome,0.039277494
+Fanconi Syndrome,0.03910625
+Endoleak,0.03893885
+Epidermodysplasia Verruciformis,0.03883031
+Leukorrhea,0.038808495
+Paraphimosis,0.038533926
+Biliary Fistula,0.03841719
+Femoral Neuropathy,0.038343728
+"Pregnancy, Heterotopic",0.038310707
+"Malocclusion, Angle Class III",0.038306713
+"Neoplasms, Bone Tissue",0.03809741
+"Tooth, Supernumerary",0.03805548
+SUNCT Syndrome,0.038054883
+Postgastrectomy Syndromes,0.03801617
+Meconium Ileus,0.037911475
+Chronic Periodontitis,0.037907064
+Hypoparathyroidism,0.03777641
+"Dermatitis, Atopic",0.037697315
+"Malocclusion, Angle Class I",0.037659258
+Vestibulocochlear Nerve Injuries,0.037567675
+Odontogenic Tumors,0.037455708
+Afferent Loop Syndrome,0.037412465
+"Paraneoplastic Syndromes, Nervous System",0.037409782
+Spinal Cord Neoplasms,0.037409782
+Periodontal Atrophy,0.037379593
+Brain Stem Neoplasms,0.037356287
+Lymphomatoid Papulosis,0.03723827
+Arteriosclerosis,0.037115872
+Heart Diseases,0.037115872
+Focal Dermal Hypoplasia,0.037043333
+Popliteal Cyst,0.03703782
+Laryngostenosis,0.037007928
+Foreign-Body Migration,0.036999732
+Alveolar Bone Loss,0.03691876
+Retroperitoneal Neoplasms,0.036848545
+Atherosclerosis,0.036548436
+Liver Cirrhosis,0.036481023
+"Pancreatitis, Acute Hemorrhagic",0.03644958
+Netherton Syndrome,0.036374986
+Pneumorrhachis,0.036295623
+Addison Disease,0.036274374
+Gerstmann-Straussler-Scheinker Disease,0.0359039
+Plummer-Vinson Syndrome,0.03586057
+Massive Hepatic Necrosis,0.035763353
+CREST Syndrome,0.03560081
+Paraneoplastic Polyneuropathy,0.035565287
+"Xanthomatosis, Cerebrotendinous",0.035448164
+Paroxysmal Hemicrania,0.035301894
+Otitis Media,0.035203695
+Coxa Valga,0.0350447
+Corneal Neovascularization,0.034929663
+Sjogren-Larsson Syndrome,0.03481415
+Monckeberg Medial Calcific Sclerosis,0.034730613
+Cauda Equina Syndrome,0.034703225
+"Hemangioendothelioma, Epithelioid",0.034651726
+"Lymphoma, Mantle-Cell",0.03462836
+Ependymoma,0.03462091
+"Neoplasms, Plasma Cell",0.03462091
+Epidermal Cyst,0.034620434
+Hemangioblastoma,0.034615338
+Lipoma,0.034614205
+Soft Tissue Neoplasms,0.034606904
+Cerebral Ventricle Neoplasms,0.034560382
+Ankyloglossia,0.034509867
+Mucocele,0.034496844
+Thyroid Neoplasms,0.034333974
+Parathyroid Neoplasms,0.03431338
+Primary Immunodeficiency Diseases,0.034279466
+"Nevus, Blue",0.03427413
+Battered Child Syndrome,0.034207106
+Status Asthmaticus,0.03410071
+"Bunion, Tailor's",0.034056067
+"Hemangioma, Capillary",0.033915102
+"Rubella Syndrome, Congenital",0.03389302
+"Glioma, Subependymal",0.033884704
+"Sarcoma, Synovial",0.03388381
+"Adenocarcinoma, Follicular",0.0338369
+Hepatic Veno-Occlusive Disease,0.03374967
+"Sarcoma, Ewing",0.033747375
+Erectile Dysfunction,0.033500016
+Leukocyte-Adhesion Deficiency Syndrome,0.033448517
+"Pancreatitis, Graft",0.03336388
+"Diverticulosis, Stomach",0.03336388
+Cholera Morbus,0.03336388
+Angiolymphoid Hyperplasia with Eosinophilia,0.03330174
+Velopharyngeal Insufficiency,0.03323415
+Monoclonal Gammopathy of Undetermined Significance,0.033182055
+Open Bite,0.033048153
+Infratentorial Neoplasms,0.03303191
+"Carcinoma, Adenoid Cystic",0.033029914
+"Leukemia, Large Granular Lymphocytic",0.03300634
+Cerebellar Neoplasms,0.032968104
+"Leukemia-Lymphoma, Adult T-Cell",0.032966614
+Lip Diseases,0.03286153
+Macroglossia,0.03285384
+Malocclusion,0.03285122
+"Malocclusion, Angle Class II",0.03284353
+HELLP Syndrome,0.032731116
+Callosities,0.032643408
+alpha 1-Antitrypsin Deficiency,0.03258887
+Accidental Injuries,0.03254065
+Binge Drinking,0.032465905
+Acne Keloid,0.03243938
+Laryngopharyngeal Reflux,0.032405496
+Phagocyte Bactericidal Dysfunction,0.032364637
+Cardiovascular Diseases,0.032339454
+Angiolipoma,0.0323115
+Lipomatosis,0.032256067
+Costello Syndrome,0.032200456
+Uterine Cervicitis,0.032192618
+Tic Disorders,0.032145053
+Immunoblastic Lymphadenopathy,0.032119364
+Tarsal Tunnel Syndrome,0.031836927
+Hyaline Membrane Disease,0.031815767
+Chondroma,0.03179893
+Cerebral Ventriculitis,0.03179434
+"Poliomyelitis, Bulbar",0.03175509
+Pinealoma,0.031605214
+Postpericardiotomy Syndrome,0.031499356
+Craniofacial Fibrous Dysplasia,0.031441182
+Osteoporosis,0.03139305
+Transfusion Reaction,0.031318903
+"Sarcoma, Myeloid",0.031307876
+Biotinidase Deficiency,0.03129369
+Hemophilia A,0.031137139
+"Microtrauma, Physical",0.031126738
+Pneumopericardium,0.031072885
+Porokeratosis,0.031009048
+Neurocytoma,0.03100884
+"Mineralocorticoid Excess Syndrome, Apparent",0.030965716
+Hyperaldosteronism,0.030807257
+"Bone Diseases, Metabolic",0.030661762
+Hypernatremia,0.03057307
+Neoplasm Metastasis,0.030533671
+Arteriosclerosis Obliterans,0.030520976
+Small Fiber Neuropathy,0.030516356
+Penile Diseases,0.030403256
+Peripheral Arterial Disease,0.030373663
+Neurotoxicity Syndromes,0.030175269
+Osteochondromatosis,0.03014946
+Prostatic Hyperplasia,0.030089974
+"Malaria, Cerebral",0.03007248
+Calciphylaxis,0.029733092
+Vesicovaginal Fistula,0.029724747
+Lymphopenia,0.029678136
+"Leukemia, Prolymphocytic, T-Cell",0.029553622
+"Abortion, Veterinary",0.029547602
+Vaginal Fistula,0.029521853
+Fibrous Dysplasia of Bone,0.029517382
+"Carcinoma, Bronchogenic",0.029466063
+Radius Fractures,0.029443502
+Vagus Nerve Injuries,0.029363334
+Gynecomastia,0.029361188
+Cutaneous Fistula,0.029319048
+Hyperekplexia,0.029307812
+Dermoid Cyst,0.029304653
+Rectal Prolapse,0.029302955
+Acute Radiation Syndrome,0.029290795
+Meningeal Carcinomatosis,0.029287905
+Flail Chest,0.029266566
+Ciliopathies,0.029084235
+"Thyroid Cancer, Papillary",0.02903682
+Diabetic Coma,0.028954685
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma,0.028933614
+Spinal Cord Compression,0.028891742
+Spinal Cord Injuries,0.028891742
+Cranial Nerve Injuries,0.028891742
+Maxillofacial Injuries,0.028891742
+Orbital Fractures,0.028891742
+Agammaglobulinemia,0.028889209
+Brain Concussion,0.028881729
+"T-Lymphocytopenia, Idiopathic CD4-Positive",0.028860658
+Zygomatic Fractures,0.02884671
+"Encephalomyelitis, Western Equine",0.02880627
+Post-Concussion Syndrome,0.028736979
+Jaw Fractures,0.028715432
+Postthrombotic Syndrome,0.028693855
+Glossopharyngeal Nerve Diseases,0.028678328
+"Fibroma, Desmoplastic",0.028673917
+Cementoma,0.02860257
+"Fractures, Multiple",0.028571606
+"Granulomatous Disease, Chronic",0.028512359
+"Leukemia, T-Cell",0.028364211
+Macrostomia,0.028337598
+Hallux Varus,0.028320909
+Prolidase Deficiency,0.028271198
+Latent Autoimmune Diabetes in Adults,0.02824989
+Kidney Cortex Necrosis,0.028193146
+Metatarsal Valgus,0.028164178
+Coxa Magna,0.028164178
+Peripheral Nerve Injuries,0.028096706
+Splenic Diseases,0.028056562
+Kluver-Bucy Syndrome,0.027999192
+Post-Dural Puncture Headache,0.027965784
+Pancreatic Fistula,0.027908862
+"Sexual Dysfunction, Physiological",0.027904809
+Urination Disorders,0.02790448
+Rectocele,0.027841628
+Chordoma,0.02783686
+Vitamin A Deficiency,0.027804434
+Hallux Limitus,0.027683824
+Angiokeratoma,0.027659059
+"Neoplasm, Residual",0.027648628
+Dysgammaglobulinemia,0.02762255
+Glycogen Storage Disease Type I,0.027546585
+Drowning,0.027474374
+Oropharyngeal Neoplasms,0.027429253
+Sublingual Gland Neoplasms,0.02737546
+Alcoholic Neuropathy,0.027364671
+Osteosarcoma,0.027344674
+IgG Deficiency,0.027343094
+Bowen's Disease,0.027327836
+"Carcinoma, Non-Small-Cell Lung",0.027232707
+Uremia,0.027092397
+Causalgia,0.027056336
+Abducens Nerve Injury,0.027005851
+Fraser Syndrome,0.026950806
+Steatocystoma Multiplex,0.026881814
+"Odontogenic Cyst, Calcifying",0.026827633
+Postphlebitic Syndrome,0.026780665
+Mesothelioma,0.026656955
+Pseudotumor Cerebri,0.026565433
+Intracranial Hypertension,0.026560307
+Metatarsus Varus,0.026496172
+"Neoplasms, Mesothelial",0.026444942
+Shwachman-Diamond Syndrome,0.026422441
+"Myositis, Inclusion Body",0.026402652
+Thyroid Nodule,0.0263426
+Bezoars,0.026285887
+"Anemia, Sickle Cell",0.026257277
+Solitary Fibrous Tumors,0.026257098
+"Heavy Metal Poisoning, Nervous System",0.026244223
+"Lymphoma, Extranodal NK-T-Cell",0.026238918
+Pulmonary Eosinophilia,0.026214153
+"Carcinoma, Medullary",0.026205957
+Paraneoplastic Endocrine Syndromes,0.026055872
+Accessory Nerve Injuries,0.026034325
+Hepatopulmonary Syndrome,0.026005149
+"Mercury Poisoning, Nervous System",0.025995135
+Cephalopelvic Disproportion,0.025934905
+Leukocytosis,0.025917858
+"Hyperparathyroidism, Primary",0.025898844
+Alzheimer Disease,0.02588886
+Hemochromatosis,0.025828004
+"Pregnancy, Abdominal",0.025797218
+Postpartum Thyroiditis,0.025764525
+Prostatitis,0.025752962
+"Leukemia, Monocytic, Acute",0.025660455
+Meningeal Neoplasms,0.025619179
+Testicular Diseases,0.025576591
+Hyperemia,0.025474012
+Central Cord Syndrome,0.025381416
+Febrile Neutropenia,0.025308102
+"Amyloidosis, Familial",0.025274366
+Pseudolymphoma,0.0252181
+Cholesterol Ester Storage Disease,0.025194377
+"Bulbar Palsy, Progressive",0.025187373
+Rhinophyma,0.025175601
+Brain Diseases,0.025167853
+"Adenocarcinoma, Bronchiolo-Alveolar",0.025127709
+Mesenchymoma,0.025127023
+Abetalipoproteinemia,0.025058031
+Pulmonary Blastoma,0.02503711
+"Neoplasms, Post-Traumatic",0.02500549
+"Liver Cirrhosis, Experimental",0.02496764
+Histiocytic Necrotizing Lymphadenitis,0.024837911
+Adrenocortical Hyperfunction,0.024833083
+Agranulocytosis,0.024818331
+Lymphatic Diseases,0.024818331
+Sarcoidosis,0.024818331
+Neutropenia,0.024818331
+Lymphadenitis,0.024818331
+Leukocyte Disorders,0.024818331
+Eosinophilia,0.024818331
+Leukopenia,0.024818331
+Lymphocytosis,0.02481684
+Lymphadenopathy,0.024808377
+Inferior Wall Myocardial Infarction,0.024792999
+Activated Protein C Resistance,0.024776578
+Histiocytosis,0.024729133
+Diabetes Insipidus,0.024703532
+Carpal Tunnel Syndrome,0.024701864
+Thrombocytosis,0.024689376
+"Osteosarcoma, Juxtacortical",0.02467826
+"Histiocytosis, Sinus",0.024607956
+"Thrombocythemia, Essential",0.024575412
+Visceral Prolapse,0.024543554
+"Neoplasms, Glandular and Epithelial",0.024522245
+"Carcinoma, Squamous Cell",0.024522245
+Steatitis,0.024511307
+Intrauterine Device Migration,0.024458528
+"Anus, Imperforate",0.024399996
+Cryoglobulinemia,0.02434799
+Alcohol-Induced Disorders,0.024265885
+Chloracne,0.024249822
+Testicular Hydrocele,0.02424696
+Wolman Disease,0.024226278
+Hydrophthalmos,0.02419728
+"Lymphohistiocytosis, Hemophagocytic",0.024158478
+Hallux Valgus,0.024081767
+Carcinoid Tumor,0.024071842
+"Hernia, Diaphragmatic, Traumatic",0.024071276
+Acute Febrile Encephalopathy,0.02406022
+"Histiocytosis, Non-Langerhans-Cell",0.024032146
+Antithrombin III Deficiency,0.02402243
+Myelodysplastic Syndromes,0.024021208
+"Leukemia, Mast-Cell",0.024020255
+Hemic and Lymphatic Diseases,0.024001598
+Hemorrhagic Disorders,0.024001598
+Bone Marrow Diseases,0.0240013
+Dystonic Disorders,0.02397284
+Pancytopenia,0.023971856
+"Aneurysm, False",0.023914129
+"Meningitis, Haemophilus",0.023884922
+Histiocytoma,0.023841262
+Mandibular Injuries,0.023830563
+"Fibroma, Ossifying",0.023809314
+Lymphangiosarcoma,0.023784846
+Primary Myelofibrosis,0.023733258
+Short Bowel Syndrome,0.023717761
+Acid-Base Imbalance,0.023707569
+Masked Hypertension,0.023634613
+Tongue Neoplasms,0.02360341
+War-Related Injuries,0.023564577
+Mandibular Fractures,0.023554802
+"Hypoadrenocorticism, Familial",0.023492754
+Multiple Carboxylase Deficiency,0.023478687
+"Histiocytoma, Malignant Fibrous",0.023464203
+"Venereal Tumors, Veterinary",0.023443907
+Periprosthetic Fractures,0.02342394
+"Lead Poisoning, Nervous System, Adult",0.023391306
+Hypereosinophilic Syndrome,0.023311943
+Bunion,0.023311794
+Erdheim-Chester Disease,0.023273885
+Desmoplastic Small Round Cell Tumor,0.023260593
+Graves Ophthalmopathy,0.023216277
+"Epilepsy, Partial, Motor",0.023214638
+Decapitation,0.023207396
+Scrapie,0.023078084
+High Pressure Neurological Syndrome,0.023055702
+Gallstones,0.02287066
+Ulnar Nerve Compression Syndromes,0.022866666
+"Sweating, Gustatory",0.022827059
+Cubital Tunnel Syndrome,0.02273804
+Trochlear Nerve Injuries,0.022689909
+Gastric Antral Vascular Ectasia,0.02268061
+"Meningitis, Meningococcal",0.022624433
+Leiomyosarcoma,0.022491753
+Esophageal Atresia,0.02248159
+"Carcinoma, Mucoepidermoid",0.022475332
+"Hypobetalipoproteinemia, Familial, Apolipoprotein B",0.022444487
+Uterine Cervical Erosion,0.022294044
+"Neoplasms, Multiple Primary",0.02226147
+Hemangioendothelioma,0.022258371
+Hydronephrosis,0.022230655
+Fecal Incontinence,0.02221635
+Malignant Carcinoid Syndrome,0.0222162
+"Histiocytoma, Benign Fibrous",0.022186786
+"Solitary Fibrous Tumor, Pleural",0.02214858
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency,0.022112906
+Pyelocystitis,0.022098333
+Meningioma,0.022058666
+"Carcinoma, Papillary, Follicular",0.022010267
+"Candidiasis, Chronic Mucocutaneous",0.021901906
+Vaginal Discharge,0.021888644
+Fibroma,0.021855235
+Deficiency Diseases,0.021765083
+Hyperlipoproteinemia Type III,0.021739066
+Ureterocele,0.021736145
+Ankle Fractures,0.021735579
+"Carcinoma, Basal Cell",0.021680683
+Neurolymphomatosis,0.021622121
+Smoke Inhalation Injury,0.021603465
+Ganglioneuroblastoma,0.021601886
+"Carcinoma, Giant Cell",0.021546662
+Achondroplasia,0.0215365
+Weill-Marchesani Syndrome,0.021522611
+Urachal Cyst,0.021515131
+Paraneoplastic Syndromes,0.02149719
+Splenosis,0.021487474
+"Pregnancy, Tubal",0.021485984
+Sarcoma,0.02141136
+Gingival Neoplasms,0.021396756
+Myxosarcoma,0.021338493
+ACTH-Secreting Pituitary Adenoma,0.02130118
+Granuloma,0.021266699
+"Carcinoma, Skin Appendage",0.02120626
+"Genital Diseases, Male",0.021143407
+Prostatic Diseases,0.021143407
+Tracheal Neoplasms,0.021097153
+Bronchial Neoplasms,0.021075249
+Endometriosis,0.021011919
+Aspermia,0.021007925
+Medulloblastoma,0.020995408
+Talipes Cavus,0.020990849
+"Anemia, Pernicious",0.020988464
+Plasmablastic Lymphoma,0.020935923
+Diffuse Cerebral Sclerosis of Schilder,0.02089873
+"Carcinoma, Signet Ring Cell",0.020882428
+"Pregnancy, Ectopic",0.020876825
+Dermatofibrosarcoma,0.02085337
+Cystic Fibrosis,0.020830631
+"Neoplasms, Basal Cell",0.020792753
+Hutchinson's Melanotic Freckle,0.020764738
+Rectal Diseases,0.020757496
+"Leukemia, Myeloid",0.020727992
+Rheumatic Heart Disease,0.020660818
+Palatal Neoplasms,0.020644665
+"Carcinoma, Neuroendocrine",0.020629019
+Hepatorenal Syndrome,0.020624846
+Precancerous Conditions,0.020594537
+Chemotherapy-Induced Febrile Neutropenia,0.020584852
+Congenital Microtia,0.020569384
+Lichen Nitidus,0.020561963
+"Liposarcoma, Myxoid",0.020552337
+Marfan Syndrome,0.020513237
+Marijuana Abuse,0.020494938
+Adenolymphoma,0.020474285
+Diabetic Ketoacidosis,0.020454228
+"Leukemia, Myelomonocytic, Acute",0.020402163
+Superior Vena Cava Syndrome,0.020395368
+Glomus Tumor,0.020371586
+"Anemia, Refractory, with Excess of Blasts",0.020326644
+Takotsubo Cardiomyopathy,0.020274341
+Nesidioblastosis,0.020254403
+Sertoli Cell-Only Syndrome,0.020228028
+"Pregnancy, Ovarian",0.020208567
+Chronic Traumatic Encephalopathy,0.020161033
+Vitamin B 6 Deficiency,0.020155638
+"Epilepsy, Partial, Sensory",0.020153105
+"Neoplasms, Adipose Tissue",0.020144284
+Myocardial Bridging,0.020103693
+Protein S Deficiency,0.020067453
+Ameloblastoma,0.020011425
+Waldenstrom Macroglobulinemia,0.020003319
+Situs Inversus,0.020002097
+Mulibrey Nanism,0.019952327
+Acatalasia,0.019933075
+Maxillary Fractures,0.019927382
+Mediastinal Cyst,0.019905627
+Embolism,0.019898146
+Protein C Deficiency,0.019875884
+Intestinal Atresia,0.019863427
+"Melanoma, Amelanotic",0.019813746
+"Paget's Disease, Mammary",0.019708753
+Pulmonary Sclerosing Hemangioma,0.01970157
+Digestive System Abnormalities,0.019692153
+Hirschsprung Disease,0.019692153
+"Red-Cell Aplasia, Pure",0.019685328
+Myosarcoma,0.019658238
+"Neoplasms, Vascular Tissue",0.019649446
+Hemangioma,0.019649446
+Akinetic Mutism,0.019635439
+Balanitis Xerotica Obliterans,0.019599825
+"Neoplasms, Fibrous Tissue",0.01958239
+Afibrinogenemia,0.019539237
+Papilloma,0.01947996
+"Paget Disease, Extramammary",0.019469619
+Adenomyosis,0.019457638
+Lipoblastoma,0.019443005
+Adenocarcinoma of Lung,0.019429684
+Paraneoplastic Cerebellar Degeneration,0.019382179
+Multiple Pulmonary Nodules,0.01938209
+"Anemia, Refractory",0.019337863
+"Adenoma, Basophil",0.019324034
+Eye Burns,0.019294411
+Fused Teeth,0.019260108
+Heart Aneurysm,0.01920119
+Posterior Leukoencephalopathy Syndrome,0.019184858
+Mucocutaneous Lymph Node Syndrome,0.019150019
+Endarteritis,0.01912579
+"Cholesteatoma, Middle Ear",0.019119054
+"Leiomyoma, Epithelioid",0.019086987
+"Neoplasms, Squamous Cell",0.019080758
+Rectal Fistula,0.019044429
+Cysts,0.019035578
+Genu Valgum,0.018998116
+Laryngomalacia,0.018947035
+"Wasting Disease, Chronic",0.01894167
+Acrospiroma,0.018917292
+Churg-Strauss Syndrome,0.01889661
+Eye Foreign Bodies,0.018884689
+Hypertensive Encephalopathy,0.018861055
+"Leukemia, Prolymphocytic",0.018835872
+"Pre-Excitation, Mahaim-Type",0.018835694
+Frasier Syndrome,0.018796831
+"Adenoma, Acidophil",0.018766016
+Hemorrhoids,0.018725812
+Iron Metabolism Disorders,0.018722087
+"Keratoconjunctivitis, Infectious",0.018703997
+Lymphangitis,0.018703729
+Pancreaticobiliary Maljunction,0.018685669
+Leukoplakia,0.018665463
+Branchioma,0.018654406
+Facial Neoplasms,0.018600583
+Dementia,0.018589795
+Gliosarcoma,0.018586874
+"Epiphyses, Slipped",0.0185543
+Congenital Hyperinsulinism,0.018509895
+"Epilepsy, Temporal Lobe",0.018499732
+Hydrocephalus,0.018492818
+Intracranial Hypotension,0.018492818
+"Brain Damage, Chronic",0.018492818
+Central Nervous System Diseases,0.018492818
+Encephalitis,0.018492818
+Meningitis,0.018492818
+"Radiation Injuries, Experimental",0.018480718
+Odontodysplasia,0.018473446
+"Decalcification, Pathologic",0.018473178
+Tobacco Use Disorder,0.018412888
+Glycogen Storage Disease Type VIII,0.018370807
+Skin Neoplasms,0.01836577
+Hypoglycemia,0.018363416
+Facial Injuries,0.018311948
+Surgical Wound,0.01830867
+Anterior Wall Myocardial Infarction,0.018297315
+Thoracic Neoplasms,0.018295258
+Head and Neck Neoplasms,0.018294841
+Cherubism,0.01827842
+"Protoporphyria, Erythropoietic",0.018261075
+Uveoparotid Fever,0.018240958
+Sclerema Neonatorum,0.018208355
+Coronary Vessel Anomalies,0.018208027
+Chondrosarcoma,0.018207312
+"Carcinoma, Large Cell",0.018202782
+Hypolipoproteinemias,0.018194616
+"Carcinoma, Basosquamous",0.018191874
+"Hypertension, Pregnancy-Induced",0.018187344
+Choroid Plexus Neoplasms,0.01811564
+Rhabdomyosarcoma,0.01810363
+"Leukemia, Basophilic, Acute",0.0180358
+Biliary Atresia,0.01801622
+Sexual Infantilism,0.017969757
+"Carcinoma, Acinar Cell",0.017940164
+Amelogenesis Imperfecta,0.017915249
+"Embolism, Fat",0.017906487
+Vaginal Diseases,0.017850399
+Lung Neoplasms,0.017836481
+Respiratory Tract Neoplasms,0.017836481
+Angiomyoma,0.017835706
+Hemospermia,0.017780274
+Lymphatic Metastasis,0.017735064
+"Pleural Effusion, Malignant",0.017640531
+Neuroblastoma,0.01761961
+"Pregnancy, Interstitial",0.017611295
+Krukenberg Tumor,0.017606586
+Basal Ganglia Diseases,0.017600536
+Neurodegenerative Diseases,0.017600536
+Movement Disorders,0.017600536
+"Pregnancy, Angular",0.017572045
+Adenoma,0.017548054
+"Diabetes Insipidus, Neurogenic",0.017497241
+Myocardial Contusions,0.017477006
+"Keratosis, Actinic",0.017472386
+Neoplasms,0.017470986
+Hypoglossal Nerve Injuries,0.017443866
+"Carcinoma, Embryonal",0.017350852
+Odontoma,0.01734531
+Campomelic Dysplasia,0.017307252
+Teratozoospermia,0.017302185
+Riboflavin Deficiency,0.017297268
+May-Thurner Syndrome,0.017291754
+Colic,0.017270803
+Endodermal Sinus Tumor,0.017224789
+Fibrosarcoma,0.017204523
+"Hydrocephalus, Normal Pressure",0.017180324
+"Rhinitis, Allergic, Seasonal",0.017177492
+"Rhinitis, Allergic",0.017177492
+"Rhinitis, Allergic, Perennial",0.017176986
+Medial Tibial Stress Syndrome,0.01713121
+Apudoma,0.017085314
+"Rhabdomyosarcoma, Alveolar",0.017083406
+Autoimmune Lymphoproliferative Syndrome,0.017079115
+Ganglioneuroma,0.017057031
+Hair Diseases,0.017033339
+IgA Deficiency,0.017029047
+Adenomatoid Tumor,0.017014176
+"Chondrosarcoma, Mesenchymal",0.017008573
+Dumping Syndrome,0.016983509
+Olfactory Nerve Injuries,0.016979516
+Eccrine Porocarcinoma,0.016956866
+"Adenoma, Oxyphilic",0.016955197
+Mevalonate Kinase Deficiency,0.016949058
+"Carcinoma, Krebs 2",0.016947687
+"Carcinoma, Intraductal, Noninfiltrating",0.016943336
+Liposarcoma,0.016941428
+Varicose Veins,0.016920745
+"Eye Injuries, Penetrating",0.016905993
+Factor XII Deficiency,0.016864061
+Metabolic Side Effects of Drugs and Substances,0.01682511
+Myelodysplastic-Myeloproliferative Diseases,0.016809106
+Enteropathy-Associated T-Cell Lymphoma,0.016807139
+Neonatal Sepsis,0.016773224
+Blood Protein Disorders,0.016769946
+"Carcinoma, Verrucous",0.016744465
+Hidrocystoma,0.01673165
+Trigger Finger Disorder,0.016654164
+"Rhabdomyosarcoma, Embryonal",0.016634792
+"Keratosis, Seborrheic",0.016592115
+Mucoepidermoid Tumor,0.016570508
+Vasa Previa,0.016556114
+Dysgerminoma,0.016525716
+"Mesothelioma, Cystic",0.016520977
+Thanatophoric Dysplasia,0.016507208
+"Abnormalities, Severe Teratoid",0.01650405
+"Conjunctivitis, Inclusion",0.016503453
+Thymus Hyperplasia,0.01649338
+Follicular Cyst,0.016484618
+Ketosis,0.016482621
+Hyperlipoproteinemias,0.016480803
+"Pregnancy, Cornual",0.016480029
+Adrenal Rest Tumor,0.016441286
+Nevi and Melanomas,0.01643762
+Uterine Inversion,0.016432345
+Adrenal Gland Diseases,0.016398966
+Acanthoma,0.01639542
+Neoplasms by Site,0.016351044
+"Leukemia, Eosinophilic, Acute",0.016341567
+"Fetal Membranes, Premature Rupture",0.016334444
+"Cystadenoma, Papillary",0.016310513
+"Fibromatosis, Abdominal",0.016302496
+Sister Mary Joseph's Nodule,0.01628995
+"Adenocarcinoma, Sebaceous",0.016274154
+Gastric Fistula,0.01625231
+"Mixed Tumor, Mesodermal",0.01623571
+"Sarcoma, Alveolar Soft Part",0.016212225
+Hemangiosarcoma,0.016207546
+Teratocarcinoma,0.016182214
+Hypobetalipoproteinemias,0.016178846
+Neuroleptic Malignant Syndrome,0.016162485
+Myeloproliferative Disorders,0.01613766
+Chondromatosis,0.0161317
+Keratosis,0.01610282
+"Carcinoma, Brown-Pearce",0.016091108
+Tubular Sweat Gland Adenomas,0.016091108
+"Adenomatosis, Pulmonary",0.016091108
+Adenomyoepithelioma,0.016091108
+Erythroplasia,0.016091108
+Mammary Analogue Secretory Carcinoma,0.016091108
+"Chondrosarcoma, Clear Cell",0.016091108
+"Odontogenic Tumor, Squamous",0.016091108
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,0.016075253
+"Neuroectodermal Tumor, Melanotic",0.016058713
+Syringoma,0.01600182
+Choroidal Effusions,0.016000032
+Tauopathies,0.015976965
+Dehydration,0.015966266
+Poroma,0.015960306
+"Leukemia, Lymphoid",0.015947044
+Lipidoses,0.01589647
+Uterine Retroversion,0.015893728
+Cystadenofibroma,0.015875518
+Adrenal Gland Neoplasms,0.015870452
+"Leukemia, Promyelocytic, Acute",0.015825033
+Brain Neoplasms,0.01580584
+Nervous System Neoplasms,0.01580584
+Cranial Nerve Neoplasms,0.01580584
+Central Nervous System Neoplasms,0.01580584
+Peripheral Nervous System Neoplasms,0.01580584
+"Epilepsy, Complex Partial",0.01573053
+Seminoma,0.015728116
+"Neuroectodermal Tumors, Primitive, Peripheral",0.01568678
+"Adenoma, Sweat Gland",0.015657365
+"Neoplasms, Connective Tissue",0.01564303
+"Leukemia, Neutrophilic, Chronic",0.015639395
+Short Rib-Polydactyly Syndrome,0.015612304
+Sepsis-Associated Encephalopathy,0.015599281
+Slipped Capital Femoral Epiphyses,0.01559639
+Surgical Wound Infection,0.015594393
+Shoulder Dystocia,0.015586764
+"Cystadenocarcinoma, Mucinous",0.01558286
+Dental Enamel Hypoplasia,0.01557076
+"Mammary Neoplasms, Animal",0.015559614
+"Lipid Metabolism, Inborn Errors",0.01553613
+Gynatresia,0.015520275
+"Head Injuries, Closed",0.015484363
+"Brain Injuries, Traumatic",0.015484333
+"Trauma, Nervous System",0.015484333
+Skull Fractures,0.015484333
+Granular Cell Tumor,0.015478611
+Choroid Hemorrhage,0.015449584
+Sarcoma 37,0.015435308
+"Carcinoma, Adenosquamous",0.015413672
+Colles' Fracture,0.015398771
+"Adenocarcinoma, Clear Cell",0.015381932
+Ureteral Obstruction,0.015358448
+Rhabdoid Tumor,0.015350431
+"Neoplasms, Adnexal and Skin Appendage",0.01532203
+Adenosarcoma,0.015319347
+Infant Nutrition Disorders,0.015298992
+HIV Wasting Syndrome,0.015284449
+Multiple System Atrophy,0.015283078
+"Neoplasms, Cystic, Mucinous, and Serous",0.015265644
+"ACTH Syndrome, Ectopic",0.015262604
+Cervical Intraepithelial Neoplasia,0.015244067
+"Skull Fracture, Depressed",0.015241891
+Sezary Syndrome,0.015232295
+"Papilloma, Intraductal",0.015196502
+Teratoma,0.015168905
+"Carcinoma, Papillary",0.015152425
+Lacerations,0.015149266
+"Goiter, Endemic",0.01514858
+Anorectal Malformations,0.01514408
+Mesonephroma,0.015143395
+Oligodendroglioma,0.015127987
+Glycogen Storage Disease Type VI,0.015123725
+Alagille Syndrome,0.015118539
+Pseudorabies,0.0151003
+Acidosis,0.015095323
+Choriocarcinoma,0.015084893
+"Myoclonic Epilepsy, Juvenile",0.015071988
+"Exostoses, Multiple Hereditary",0.015051544
+"Head Injuries, Penetrating",0.015025735
+"Sarcoma, Small Cell",0.015019804
+"Cystadenocarcinoma, Papillary",0.014999837
+Leukemia L5178,0.014974386
+Median Arcuate Ligament Syndrome,0.014969319
+Uterine Perforation,0.014965415
+Glomus Tympanicum Tumor,0.014957517
+Cardiac Tamponade,0.014949113
+Hypothyroidism,0.014937967
+Menorrhagia,0.014898777
+Eye Neoplasms,0.014898688
+Leukemia P388,0.014827669
+Prune Belly Syndrome,0.014810026
+Birth Injuries,0.014796704
+Brain Edema,0.014791727
+"Sarcoma, Clear Cell",0.014770269
+Dentinogenesis Imperfecta,0.014767081
+Glossopharyngeal Nerve Injuries,0.014746487
+Self Mutilation,0.014721751
+Aberrant Crypt Foci,0.014707059
+Hyperpigmentation,0.014695227
+Neurothekeoma,0.014627785
+Dental Calculus,0.014620721
+Sarcoglycanopathies,0.014610916
+Pituitary Neoplasms,0.014549434
+Smooth Muscle Tumor,0.014529169
+"Epilepsies, Myoclonic",0.014499754
+Epileptic Syndromes,0.014499754
+"Epilepsy, Generalized",0.014499754
+Epilepsy,0.014499754
+Hypothalamic Diseases,0.014499754
+"Stenosis, Pulmonary Vein",0.014496028
+"Epilepsy, Absence",0.014489353
+Langer-Giedion Syndrome,0.014432788
+"Hemoglobinuria, Paroxysmal",0.014419079
+Blue Toe Syndrome,0.014402211
+Thyroglossal Cyst,0.014390588
+Hypopharyngeal Neoplasms,0.014371514
+Vitamin D Deficiency,0.014307648
+Lewy Body Disease,0.014291704
+Kwashiorkor,0.014259428
+Struma Ovarii,0.014226437
+"Thyroid Carcinoma, Anaplastic",0.014220834
+Adamantinoma,0.014215767
+Canaliculitis,0.01420781
+Hyperlipoproteinemia Type V,0.014206916
+Hemangiopericytoma,0.014175296
+Ganglioglioma,0.014167607
+Gonadal Disorders,0.014149666
+Phosphorus Metabolism Disorders,0.014106154
+"Cystadenoma, Mucinous",0.014095306
+Pilomatrixoma,0.014089286
+Phimosis,0.014080495
+Malnutrition,0.014061242
+Mast-Cell Sarcoma,0.014027178
+"Nails, Ingrown",0.014016837
+Choline Deficiency,0.014013201
+"Nevus, Intradermal",0.014005274
+"Burns, Inhalation",0.014002472
+Hypophosphatasia,0.014000386
+"Adenocarcinoma, Papillary",0.013939351
+Pseudomyxoma Peritonei,0.013937831
+Pilonidal Sinus,0.01393193
+Inflammatory Breast Neoplasms,0.013923407
+"Amputation, Traumatic",0.013904125
+"Mixed Tumor, Malignant",0.013872564
+Nevus of Ota,0.013861984
+"Neoplasms, Second Primary",0.013860077
+"Leukemia, Myeloid, Acute",0.013844013
+Myocarditis,0.013843924
+"Corneal Dystrophies, Hereditary",0.013840675
+Arachnodactyly,0.013830453
+"Neoplasms, Radiation-Induced",0.013805062
+Monilethrix,0.013788134
+Drug Resistant Epilepsy,0.013787508
+"Mixed Tumor, Mullerian",0.013762832
+"Nevus, Epithelioid and Spindle Cell",0.01373899
+"Nevus, Spindle Cell",0.01373899
+"Neuroectodermal Tumors, Primitive",0.01373589
+Potassium Deficiency,0.013701856
+"Infertility, Female",0.013698608
+Chondrodysplasia Punctata,0.013698489
+Abdominal Neoplasms,0.013666809
+Splenic Rupture,0.013652623
+Hordeolum,0.013621777
+Arsenic Poisoning,0.013594717
+"Adenoma, Pleomorphic",0.013586819
+Neoplasms by Histologic Type,0.01358074
+Leukemia,0.01358074
+"Neoplasms, Connective and Soft Tissue",0.01358074
+Melanoma,0.01358071
+Myofibromatosis,0.013576388
+Diastema,0.013573051
+Cushing Syndrome,0.013548285
+Diaper Rash,0.013546139
+"Adenoma, Chromophobe",0.01353091
+Myelolipoma,0.013516665
+"Puberty, Delayed",0.013507992
+Hypertrichosis,0.013488054
+"Carcinoma, Small Cell",0.013485312
+Astrocytoma,0.013477415
+Germinoma,0.01347509
+Pheochromocytoma,0.013470471
+Glioblastoma,0.013469726
+"Paraganglioma, Extra-Adrenal",0.013467193
+Glioma,0.013464332
+Neuroectodermal Tumors,0.013464332
+Neuroma,0.013464332
+Neuroendocrine Tumors,0.013464332
+"Neoplasms, Nerve Tissue",0.013464332
+Paraganglioma,0.013464332
+Neurilemmoma,0.013464332
+"Neoplasms, Neuroepithelial",0.013464332
+"Neoplasms, Germ Cell and Embryonal",0.013464332
+"Nevus, Pigmented",0.01346004
+"Muscular Dystrophy, Facioscapulohumeral",0.013452321
+DNA Repair-Deficiency Disorders,0.013439447
+Antley-Bixler Syndrome Phenotype,0.01340726
+Sarcoma 180,0.013355285
+Mobius Syndrome,0.013342589
+Hyperphosphatemia,0.0133349
+Nijmegen Breakage Syndrome,0.013334453
+"Brain Injury, Chronic",0.01330629
+Fibroadenoma,0.013301998
+"Muscular Dystrophies, Limb-Girdle",0.013294965
+Papillon-Lefevre Disease,0.013264149
+Rhabdomyoma,0.013242513
+Adrenal Cortex Neoplasms,0.013213605
+Synucleinopathies,0.013187319
+"Fibromatosis, Gingival",0.013185859
+Inert Gas Narcosis,0.013162971
+"Glycosuria, Renal",0.013105333
+Leiomyoma,0.013078719
+Olfactory Nerve Diseases,0.013058603
+Pruritus Ani,0.013011068
+Asthenozoospermia,0.013010114
+"Abortion, Missed",0.013007939
+Hypophosphatemia,0.012992442
+Small Cell Lung Carcinoma,0.012957364
+"Nevus, Halo",0.012954325
+Mastocytosis,0.012946218
+Cystadenoma,0.012936026
+"Adenoma, Bile Duct",0.01290229
+Craniopharyngioma,0.01288116
+Thyroid Hormone Resistance Syndrome,0.012873739
+Adenofibroma,0.012844741
+Thymoma,0.012810558
+Vulvar Vestibulitis,0.01280278
+Leukostasis,0.012776226
+"Osteoporosis, Postmenopausal",0.012767553
+Meconium Aspiration Syndrome,0.012766093
+Bronchogenic Cyst,0.012753248
+Hidradenitis Suppurativa,0.012745261
+Hepatoblastoma,0.012676925
+Nevus,0.0126746
+Cholangiocarcinoma,0.0126715
+Leukemia L1210,0.01265955
+Severe Acute Malnutrition,0.012657523
+Thymus Neoplasms,0.012652427
+Refeeding Syndrome,0.01263696
+"Heart Rupture, Post-Infarction",0.012631774
+"Leukemia, Megakaryoblastic, Acute",0.012606889
+Spinal Dysraphism,0.012602389
+White Dot Syndromes,0.012594938
+Hyperthyroxinemia,0.012576222
+Folic Acid Deficiency,0.012569249
+"Adenoma, Villous",0.012552708
+Holocarboxylase Synthetase Deficiency,0.012532592
+"Acidosis, Lactic",0.012527555
+Mitochondrial Diseases,0.012527525
+Child Nutrition Disorders,0.012527525
+Metabolic Syndrome,0.012527525
+Protein Deficiency,0.012527525
+Insulin Resistance,0.012527525
+Hyperglycemia,0.012527525
+Wasting Syndrome,0.012527525
+"Obesity, Abdominal",0.012527525
+Protein-Energy Malnutrition,0.012527525
+Glucose Intolerance,0.012527525
+Starvation,0.012527525
+Hyperinsulinism,0.012527525
+"Genetic Diseases, Y-Linked",0.012450397
+Central Nervous System Cysts,0.012436956
+Arachnoid Cysts,0.012436956
+Hypertriglyceridemia,0.012435705
+Lipid Metabolism Disorders,0.012435198
+Hyperlipidemias,0.012435198
+Metabolic Diseases,0.012435198
+Dyslipidemias,0.012435198
+Glucose Metabolism Disorders,0.012435198
+Hypercholesterolemia,0.012435138
+"Leukemia, Prolymphocytic, B-Cell",0.012370974
+Diffuse Axonal Injury,0.012370318
+Eunuchism,0.012352616
+"Puberty, Precocious",0.012346774
+Hypogonadism,0.012334794
+Adrenal Insufficiency,0.012334794
+Pick Disease of the Brain,0.012326568
+"Cystadenoma, Serous",0.012308627
+Linitis Plastica,0.012293905
+"Papilloma, Inverted",0.012269884
+"Cystadenocarcinoma, Serous",0.012256563
+"Epilepsy, Post-Traumatic",0.012239546
+"Adenocarcinoma, Mucinous",0.012235642
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",0.012230426
+Vitamin E Deficiency,0.012213647
+Endotoxemia,0.012179792
+Distal Myopathies,0.012169391
+Anodontia,0.012160003
+Amniotic Band Syndrome,0.012142569
+"Histiocytic Disorders, Malignant",0.012123644
+Myoma,0.012093484
+"Brain Injuries, Diffuse",0.012079746
+Phyllodes Tumor,0.012039483
+Mongolian Spot,0.012023687
+Pectus Carinatum,0.012022972
+Job Syndrome,0.012021989
+Adenomyoma,0.01200068
+Mouth Abnormalities,0.011957616
+Stomatognathic System Abnormalities,0.011956602
+Cleft Lip,0.011956602
+Tooth Abnormalities,0.011956602
+Low Tension Glaucoma,0.011940986
+Choroid Neoplasms,0.011931568
+Klatskin Tumor,0.011909962
+"Neoplasms, Ductal, Lobular, and Medullary",0.011888534
+Lymphangioma,0.01187706
+"Neoplasms, Complex and Mixed",0.011864483
+Sex Cord-Gonadal Stromal Tumors,0.011851639
+Heart Rupture,0.011849642
+"Neoplasms, Gonadal Tissue",0.011848778
+"Neuroma, Acoustic",0.01184392
+"Neoplasms, Fibroepithelial",0.011835486
+Bone Marrow Neoplasms,0.011828214
+Brain Injuries,0.011823982
+Hematologic Neoplasms,0.011823684
+Carcinoma in Situ,0.01181826
+Polycythemia Vera,0.011806369
+Glomus Jugulare Tumor,0.011794776
+"Twins, Conjoined",0.011791945
+Neonatal Abstinence Syndrome,0.011791647
+"Infant, Premature, Diseases",0.011784434
+"Infant, Newborn, Diseases",0.011784434
+Iris Neoplasms,0.011777341
+"Epilepsy, Tonic-Clonic",0.011742115
+Perivascular Epithelioid Cell Neoplasms,0.011733413
+Squamous Cell Carcinoma of Head and Neck,0.011729181
+Waardenburg Syndrome,0.011722803
+"Ectodermal Dysplasia 3, Anhidrotic",0.011685431
+Retrognathia,0.011682421
+Nasopharyngeal Carcinoma,0.011672616
+Myoepithelioma,0.011671126
+"Hydatidiform Mole, Invasive",0.011649281
+Cystadenocarcinoma,0.011627018
+Micrognathism,0.011566639
+Pierre Robin Syndrome,0.011565745
+Cleft Palate,0.011565626
+Jaw Abnormalities,0.011565626
+Maxillofacial Abnormalities,0.011565626
+Chagas Cardiomyopathy,0.011527836
+Dystonia Musculorum Deformans,0.011497468
+"Epilepsies, Partial",0.011488766
+"Genital Diseases, Female",0.011474997
+Endocrine System Diseases,0.011419624
+Cleidocranial Dysplasia,0.011416435
+"Leukemia, Experimental",0.011368781
+"Neoplasms, Hormone-Dependent",0.011368603
+Occupational Stress,0.011342168
+Gigantism,0.011311352
+"Bone Diseases, Endocrine",0.011301905
+"Neoplastic Cells, Circulating",0.011284381
+Pantothenate Kinase-Associated Neurodegeneration,0.011277646
+Leiomyomatosis,0.011243463
+Lymphatic Vessel Tumors,0.011230826
+"Leukokeratosis, Hereditary Mucosal",0.011216849
+Ichthyosis Bullosa of Siemens,0.011216849
+"Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive",0.011216849
+"Keratoderma, Palmoplantar, Epidermolytic",0.011216849
+Pelvic Neoplasms,0.011214167
+Diabetes Mellitus,0.011196822
+Uterine Hemorrhage,0.011190742
+Mediastinal Neoplasms,0.011159062
+"Sarcoma, Yoshida",0.011155963
+Deglutition Disorders,0.011151433
+Loeys-Dietz Syndrome,0.011113197
+Histiocytic Sarcoma,0.011076093
+Corpse Dismemberment,0.011071563
+"Abortion, Threatened",0.011068344
+Pancoast Syndrome,0.011068285
+"Abnormalities, Drug-Induced",0.01104793
+Angiomyolipoma,0.011042535
+Wolf-Hirschhorn Syndrome,0.011035293
+Uterine Cervical Incompetence,0.011034429
+Nervous System Diseases,0.011029542
+"Papilloma, Choroid Plexus",0.011024416
+Adenomatous Polyps,0.011006951
+"Adenocarcinoma, Scirrhous",0.011004955
+Myxoma,0.011003017
+"Carcinoma, Ehrlich Tumor",0.011002272
+"Carcinoma, Ductal",0.010995656
+"Melanoma, Experimental",0.010978133
+"Carcinoma, Lewis Lung",0.010973215
+"Fibrous Dysplasia, Polyostotic",0.010973007
+Carcinosarcoma,0.010965973
+"Carcinoma 256, Walker",0.010965288
+"Lymphangioma, Cystic",0.010965139
+"Neoplasms, Experimental",0.01096487
+"Sarcoma, Experimental",0.01096487
+"Mammary Neoplasms, Experimental",0.01096487
+"Muscular Dystrophy, Oculopharyngeal",0.010905951
+Prostatic Intraepithelial Neoplasia,0.010887355
+Empty Sella Syndrome,0.010853261
+Uveal Neoplasms,0.010841996
+"Lymphoma, Primary Cutaneous Anaplastic Large Cell",0.010834724
+"Leukemia, Radiation-Induced",0.01082316
+Oligospermia,0.010787755
+Carotid Body Tumor,0.010758251
+Infertility,0.010746211
+Angiofibroma,0.010718226
+"Fructose-1,6-Diphosphatase Deficiency",0.010716289
+Vascular Neoplasms,0.010691017
+Sulfhemoglobinemia,0.010680884
+Hypercalcemia,0.010669559
+"Myelinolysis, Central Pontine",0.010666519
+"Spastic Paraplegia, Hereditary",0.010647208
+"Pregnancy Complications, Neoplastic",0.010633916
+Urticaria Pigmentosa,0.010632217
+Pneumocephalus,0.010599732
+"Ventricular Dysfunction, Left",0.010588765
+Abruptio Placentae,0.010576695
+Fuchs' Endothelial Dystrophy,0.010570228
+Tourette Syndrome,0.010545254
+"Choriocarcinoma, Non-gestational",0.010537803
+Multiple Endocrine Neoplasia Type 2a,0.010522813
+Placental Insufficiency,0.010521174
+Uterine Inertia,0.010520816
+Trophoblastic Neoplasms,0.010507792
+Placenta Diseases,0.010467172
+Dysostoses,0.010466337
+"Bone Diseases, Developmental",0.010466337
+"Obstetric Labor, Premature",0.010466039
+Premature Birth,0.010466009
+Pregnancy Complications,0.010466009
+Conjunctival Neoplasms,0.010434032
+Craniocerebral Trauma,0.010356277
+Branchio-Oto-Renal Syndrome,0.010327488
+Chorioamnionitis,0.010314405
+"Hyperthyroxinemia, Familial Dysalbuminemic",0.010312825
+"Lead Poisoning, Nervous System",0.010301501
+"Abortion, Incomplete",0.010260344
+Pituitary Diseases,0.010201037
+Dextrocardia,0.010159344
+Azoospermia,0.010134906
+"Pemphigus, Benign Familial",0.010134548
+"Abortion, Spontaneous",0.010113955
+"Muscular Dystrophy, Emery-Dreifuss",0.010109395
+Enuresis,0.010104567
+Eyelid Neoplasms,0.010103017
+Wiskott-Aldrich Syndrome,0.01007098
+Lown-Ganong-Levine Syndrome,0.010069072
+"Neoplasms, Muscle Tissue",0.010018021
+Choroidal Neovascularization,0.00999549
+Esophageal Cyst,0.009967268
+"Abortion, Habitual",0.009963661
+Oligohydramnios,0.009941965
+Polyhydramnios,0.009933054
+Uterine Rupture,0.009928167
+Ototoxicity,0.009917438
+Hydrocolpos,0.009899378
+Hidradenitis,0.009895712
+Nasopharyngeal Neoplasms,0.009854287
+Propionic Acidemia,0.009836823
+Arnold-Chiari Malformation,0.009822786
+Inappropriate ADH Syndrome,0.00981164
+"Rickets, Hypophosphatemic",0.009802491
+Pleural Neoplasms,0.009791136
+Hematologic Diseases,0.00977847
+"Trophoblastic Tumor, Placental Site",0.009772211
+Chalazion,0.009752989
+Vulvar Neoplasms,0.009733439
+"Ichthyosis, Lamellar",0.009730607
+Pregnancy in Diabetics,0.009722799
+Sotos Syndrome,0.009675771
+Fructose Intolerance,0.009657264
+Undifferentiated Connective Tissue Diseases,0.00965178
+Lingual Goiter,0.009639889
+Blast Crisis,0.009607077
+"Bone Demineralization, Pathologic",0.009593546
+Mandibular Nerve Injuries,0.009574503
+Amyotrophic Lateral Sclerosis,0.009558648
+"Bulbo-Spinal Atrophy, X-Linked",0.009548873
+Endocrine Gland Neoplasms,0.009544164
+"Infertility, Male",0.009535968
+Hamartoma,0.009534925
+Obstetric Labor Complications,0.009470701
+Asphyxia Neonatorum,0.00946489
+Breast Carcinoma In Situ,0.009409547
+Pharyngeal Neoplasms,0.009399563
+"Anemia, Hemolytic, Autoimmune",0.009392619
+"Hyper-IgM Immunodeficiency Syndrome, Type 1",0.009361118
+Placenta Previa,0.009298444
+Splenic Neoplasms,0.009293258
+Loose Anagen Hair Syndrome,0.009284705
+"Leukemia, Myelomonocytic, Chronic",0.00925523
+Beckwith-Wiedemann Syndrome,0.009202242
+"Genetic Diseases, Inborn",0.009190559
+Chromosome Disorders,0.009190559
+"Congenital, Hereditary, and Neonatal Diseases and Abnormalities",0.009190559
+"Abnormalities, Multiple",0.009190559
+Congenital Abnormalities,0.009190559
+Sex Chromosome Disorders,0.009190559
+"Genetic Diseases, X-Linked",0.009190559
+"Diabetes Mellitus, Lipoatrophic",0.009175271
+Placenta Accreta,0.009159416
+"Paraneoplastic Syndromes, Ocular",0.009131879
+Vascular Malformations,0.009129763
+Arteriovenous Malformations,0.009129703
+Carcinoma,0.00908792
+Myxedema,0.009040475
+Rhinoscleroma,0.009012073
+Fallopian Tube Neoplasms,0.008988351
+Spina Bifida Occulta,0.008941889
+"Placenta, Retained",0.008918703
+"Carcinoma, Transitional Cell",0.008825451
+"46, XX Testicular Disorders of Sex Development",0.008820474
+Huntington Disease,0.008817405
+Mesenteric Cyst,0.008801371
+Hallermann's Syndrome,0.008798897
+Neuroacanthocytosis,0.008794665
+"Fructose Metabolism, Inborn Errors",0.008777618
+Retinoblastoma,0.00876838
+Adrenocortical Carcinoma,0.008768082
+"Abnormalities, Radiation-Induced",0.008767575
+Laryngeal Neoplasms,0.00872919
+Zollinger-Ellison Syndrome,0.008721292
+Breech Presentation,0.00872007
+Myofibroma,0.008660197
+"Pregnancy, Prolonged",0.008605391
+"Alcohol-Induced Disorders, Nervous System",0.008602172
+Dystocia,0.008589327
+Corneal Opacity,0.008576274
+Neural Tube Defects,0.008541077
+Neoplastic Processes,0.008495152
+Spinal Muscular Atrophies of Childhood,0.008490056
+"Sleep Apnea, Obstructive",0.00848949
+"Sleep Apnea, Central",0.00848949
+Sleep Apnea Syndromes,0.00848949
+Gingival Hemorrhage,0.008489043
+Pituitary ACTH Hypersecretion,0.008481056
+"Mastocytosis, Cutaneous",0.00847584
+Ventricular Septal Rupture,0.008464217
+Lipedema,0.008462012
+Meningomyelocele,0.008451819
+Iris Diseases,0.00845027
+Pericardial Effusion,0.008436292
+"Hand Deformities, Congenital",0.008424729
+"Diabetes Mellitus, Experimental",0.008419991
+Chronobiology Disorders,0.008415669
+"Chondrodysplasia Punctata, Rhizomelic",0.008405685
+Tonsillar Neoplasms,0.008397281
+"Steroid Metabolism, Inborn Errors",0.008343965
+Wernicke Encephalopathy,0.008320034
+Vascular Ring,0.008318126
+"Epilepsy, Frontal Lobe",0.008310884
+Buschke-Lowenstein Tumor,0.00830093
+"Epilepsy, Benign Neonatal",0.008246422
+Neurogenic Inflammation,0.008238494
+Sertoli Cell Tumor,0.008195967
+Microaneurysm,0.008195549
+Porencephaly,0.008153796
+"Upper Extremity Deformities, Congenital",0.008128226
+Methemoglobinemia,0.008091867
+Nose Neoplasms,0.008068979
+Striatonigral Degeneration,0.008060336
+"Diabetes Insipidus, Nephrogenic",0.008017898
+Sweat Gland Neoplasms,0.008009136
+Bloom Syndrome,0.008006573
+"Hamartoma Syndrome, Multiple",0.007986307
+Mucinoses,0.007941961
+Hypopigmentation,0.007941961
+Growth Hormone-Secreting Pituitary Adenoma,0.00790751
+Aortic Coarctation,0.007882506
+Wandering Spleen,0.007876515
+Neurofibrosarcoma,0.007876307
+Myopericytoma,0.007858247
+"Myopathy, Central Core",0.007855982
+Silver-Russell Syndrome,0.007813603
+Adie Syndrome,0.007775068
+Oculomotor Nerve Diseases,0.007775068
+"Nystagmus, Pathologic",0.007775068
+Esotropia,0.00777325
+Tolosa-Hunt Syndrome,0.007755101
+Myotonia Congenita,0.007753581
+Brachydactyly,0.007728428
+Osteogenesis Imperfecta,0.007717371
+Adnexal Diseases,0.007690191
+Olivopontocerebellar Atrophies,0.00767374
+Hypothalamic Neoplasms,0.007665545
+Supratentorial Neoplasms,0.007659495
+Coagulation Protein Disorders,0.007644534
+"Diabetes Mellitus, Type 2",0.007615745
+Endometrial Hyperplasia,0.007606
+Goldenhar Syndrome,0.007585168
+Homocystinuria,0.007566631
+Colloid Cysts,0.007563561
+Liddle Syndrome,0.007529646
+Prolactinoma,0.007520944
+Exotropia,0.007513791
+Orofaciodigital Syndromes,0.007504195
+Ear Neoplasms,0.007469595
+Adenocarcinoma,0.007467985
+Corneal Injuries,0.007432163
+"Insomnia, Fatal Familial",0.007425964
+Hypertelorism,0.007383108
+Multiple Endocrine Neoplasia,0.007380426
+Hyperlipoproteinemia Type I,0.007340223
+Diabetic Cardiomyopathies,0.007267654
+Polydactyly,0.007263988
+Septo-Optic Dysplasia,0.00726223
+Arteriolosclerosis,0.00725016
+"Myasthenic Syndromes, Congenital",0.007237256
+Ectromelia,0.00722599
+Otorhinolaryngologic Neoplasms,0.007183731
+"Sarcoma, Endometrial Stromal",0.007175446
+"Menopause, Premature",0.007173806
+"Dysautonomia, Familial",0.007156879
+Pseudohypoparathyroidism,0.007148594
+Pseudopseudohypoparathyroidism,0.007148594
+Ophthalmia Neonatorum,0.007147461
+"Ichthyosiform Erythroderma, Congenital",0.007139266
+Melanosis,0.007132262
+Penile Neoplasms,0.007132083
+Endometrial Stromal Tumors,0.007124364
+Eye Injuries,0.007111043
+Lentigo,0.007110715
+Breast Diseases,0.00710839
+Acrocephalosyndactylia,0.007093549
+Funnel Chest,0.007065445
+Syndactyly,0.007059336
+Craniosynostoses,0.007052749
+Musculoskeletal Abnormalities,0.007052749
+Craniofacial Dysostosis,0.007052749
+Craniofacial Abnormalities,0.007052749
+Synostosis,0.007052749
+"Anemia, Aplastic",0.007043302
+Unverricht-Lundborg Syndrome,0.007036537
+Charcot-Marie-Tooth Disease,0.007018656
+Hereditary Sensory and Motor Neuropathy,0.007018656
+Nervous System Malformations,0.007018626
+Prenatal Exposure Delayed Effects,0.00700587
+Prenatal Injuries,0.00700587
+Hematocele,0.006997913
+Acanthosis Nigricans,0.006996095
+Diffuse Neurofibrillary Tangles with Calcification,0.006969273
+Pancreatic Pseudocyst,0.006953597
+"Epidermolysis Bullosa, Junctional",0.006935746
+Ileal Neoplasms,0.006933093
+Birt-Hogg-Dube Syndrome,0.006917328
+"Thrombocytopenia, Neonatal Alloimmune",0.006903619
+Uterine Cervical Diseases,0.006891429
+Laron Syndrome,0.006889671
+Hereditary Sensory and Autonomic Neuropathies,0.006882072
+"Hyperlipidemia, Familial Combined",0.006881028
+Spermatocele,0.00687632
+Pancreatic Cyst,0.006865382
+Li-Fraumeni Syndrome,0.00685963
+"Sleep Disorders, Circadian Rhythm",0.006854326
+Adrenocortical Adenoma,0.006849021
+Ventricular Dysfunction,0.006841838
+Basal Cell Nevus Syndrome,0.006788611
+Gray Platelet Syndrome,0.006787241
+Nodding Syndrome,0.006776363
+Ischemic Contracture,0.006763309
+Gastrointestinal Stromal Tumors,0.006759465
+Leukoencephalopathies,0.00672859
+Prediabetic State,0.006725371
+Nerve Sheath Neoplasms,0.006713659
+"Leukemia, Myeloid, Chronic-Phase",0.006706357
+Uterine Diseases,0.006677121
+Atrophic Vaginitis,0.006643593
+Retinal Neoplasms,0.006600291
+"Jaundice, Chronic Idiopathic",0.006584197
+Peritoneal Neoplasms,0.006583273
+Darier Disease,0.006534308
+Eosinophilia-Myalgia Syndrome,0.0064888
+Dysplastic Nevus Syndrome,0.006453693
+Corneal Perforation,0.006422341
+beta-Mannosidosis,0.006394774
+Cecal Neoplasms,0.006370395
+"Carcinoma, Ductal, Breast",0.006346792
+Landau-Kleffner Syndrome,0.006345958
+"Xanthogranuloma, Juvenile",0.006345719
+Persistent Hyperplastic Primary Vitreous,0.006337434
+Congenital Disorders of Glycosylation,0.006321847
+Skin Abnormalities,0.006321311
+"Pain Insensitivity, Congenital",0.006302327
+Glycogen Storage Disease,0.006301224
+"Amino Acid Metabolism, Inborn Errors",0.006296843
+Peroxisomal Disorders,0.006296843
+"Amino Acid Transport Disorders, Inborn",0.006271958
+Hyperlipoproteinemia Type IV,0.006253302
+Blood Coagulation Disorders,0.00625065
+Mastocytoma,0.006186336
+Incontinentia Pigmenti,0.006158382
+Freemartinism,0.006156445
+Crigler-Najjar Syndrome,0.006119251
+Fetal Nutrition Disorders,0.006118625
+Optic Neuritis,0.006109208
+Testicular Neoplasms,0.006088644
+"Malformations of Cortical Development, Group III",0.006086737
+Vipoma,0.006084323
+"Keratoderma, Palmoplantar, Diffuse",0.006045342
+Smith-Lemli-Opitz Syndrome,0.00603497
+Adiposis Dolorosa,0.006023258
+Werner Syndrome,0.006017417
+Tricuspid Atresia,0.006011725
+Jejunal Neoplasms,0.006011009
+"Myopathies, Nemaline",0.006006688
+Familial Multiple Lipomatosis,0.006004751
+Progeria,0.006004155
+Neoplasm Seeding,0.005994976
+Mannosidase Deficiency Diseases,0.005987853
+alpha-Mannosidosis,0.005974025
+Cytochrome-c Oxidase Deficiency,0.005973697
+Hyper-IgM Immunodeficiency Syndrome,0.00597176
+Night Blindness,0.005964726
+Glycogen Storage Disease Type III,0.005963057
+Intraocular Lymphoma,0.005953759
+Lafora Disease,0.005951285
+Ichthyosis Vulgaris,0.005933762
+Appendiceal Neoplasms,0.005925059
+Glycogen Storage Disease Type IV,0.005922645
+"Pyruvate Metabolism, Inborn Errors",0.005921692
+"Metabolism, Inborn Errors",0.005920857
+Lysosomal Storage Diseases,0.005920857
+"Metal Metabolism, Inborn Errors",0.005920857
+"Carbohydrate Metabolism, Inborn Errors",0.005920857
+"Purine-Pyrimidine Metabolism, Inborn Errors",0.005920857
+Marek Disease,0.005906373
+Neurofibromatosis 2,0.005894244
+"Anemia, Macrocytic",0.005872279
+Aspartylglucosaminuria,0.005851746
+"Dendritic Cell Sarcoma, Follicular",0.005838752
+"Anemia, Megaloblastic",0.005764127
+"Lipodystrophy, Congenital Generalized",0.005732298
+Ovarian Diseases,0.005724996
+Nocturnal Enuresis,0.005707681
+"Lymphangiectasis, Intestinal",0.005700111
+"Hyperbilirubinemia, Hereditary",0.005686641
+"Esthesioneuroblastoma, Olfactory",0.005620837
+Vitelliform Macular Dystrophy,0.005613983
+Brain Contusion,0.005591959
+Bladder Exstrophy,0.005547762
+Vasoplegia,0.00553155
+"Coproporphyria, Hereditary",0.005519956
+Staghorn Calculi,0.005510837
+Pulmonary Subvalvular Stenosis,0.005504668
+Arteriovenous Fistula,0.005498529
+Echogenic Bowel,0.005492091
+Pyonephrosis,0.005484849
+"Acidosis, Renal Tubular",0.00546211
+Esophageal Neoplasms,0.005396575
+Stomach Neoplasms,0.005396575
+Digestive System Neoplasms,0.005396575
+Granulosa Cell Tumor,0.005385667
+"Hyperoxaluria, Primary",0.005384207
+Anaplasia,0.005351871
+"Skull Fracture, Basilar",0.00535053
+"Mastocytoma, Skin",0.005330294
+"Pericarditis, Constrictive",0.005287468
+Epispadias,0.005243093
+Gilbert Disease,0.005233884
+Chorea Gravidarum,0.005200744
+Tricuspid Valve Prolapse,0.005181432
+Multiple Endocrine Neoplasia Type 2b,0.005168796
+Ellis-Van Creveld Syndrome,0.005166858
+Ectopia Lentis,0.005164206
+Squamous Intraepithelial Lesions of the Cervix,0.005075634
+Anomalous Left Coronary Artery,0.00506258
+Duodenal Neoplasms,0.00506115
+Hypoproteinemia,0.005061001
+"Anemia, Myelophthisic",0.005047739
+Lynch Syndrome II,0.005047083
+Amyloid Neuropathies,0.00503397
+Hypokalemic Periodic Paralysis,0.005028576
+"Prostatic Neoplasms, Castration-Resistant",0.004983187
+Gallbladder Neoplasms,0.004955053
+Pituitary Apoplexy,0.004943252
+Pycnodysostosis,0.004900694
+"Pregnancy Complications, Cardiovascular",0.004884303
+Pyelectasis,0.00486654
+Thrombotic Microangiopathies,0.004834712
+Thrombocytopenia,0.004834712
+Uterine Neoplasms,0.00483188
+"Genital Neoplasms, Female",0.00483188
+Gardner Syndrome,0.00482747
+Uterine Cervical Dysplasia,0.004820734
+Hemoglobin SC Disease,0.004803151
+Hemostatic Disorders,0.004789949
+Luteoma,0.004768103
+TDP-43 Proteinopathies,0.004766107
+Hydranencephaly,0.004715532
+Contrecoup Injury,0.004685313
+"Epilepsy, Reflex",0.004685074
+Ureteral Diseases,0.004670501
+Strabismus,0.004655302
+Blood Platelet Disorders,0.004648149
+beta-Thalassemia,0.004610091
+Disseminated Intravascular Coagulation,0.004582614
+Non-Filarial Lymphedema,0.004575253
+"Leukemia, Biphenotypic, Acute",0.004574359
+"Hemangioma, Cavernous",0.004572839
+Neoplasm Micrometastasis,0.004568756
+Oncogene Addiction,0.004568756
+Extranodal Extension,0.004568756
+Endometrial Neoplasms,0.004564643
+Donohue Syndrome,0.004564077
+Ichthyosis,0.004561544
+"Spasms, Infantile",0.00455451
+"Porphyria, Variegate",0.004550189
+Ectodermal Dysplasia,0.004547238
+"Keratoderma, Palmoplantar",0.004533708
+Papilledema,0.00452444
+Cutis Laxa,0.004517138
+Trichothiodystrophy Syndromes,0.004511803
+"Nephroma, Mesoblastic",0.004496276
+Esophageal Squamous Cell Carcinoma,0.0044882
+Pseudoxanthoma Elasticum,0.004444212
+Congenital Hypothyroidism,0.004354686
+Dwarfism,0.004354686
+Sigmoid Neoplasms,0.004340202
+Pagetoid Reticulosis,0.004338384
+Composite Lymphoma,0.004338384
+Hypoalbuminemia,0.00432983
+Hyperprolactinemia,0.004318893
+"Nephritis, Hereditary",0.004303247
+"Myopathies, Structural, Congenital",0.004298508
+"Lipodystrophy, Familial Partial",0.004278988
+Sneddon Syndrome,0.004277259
+Out-of-Hospital Cardiac Arrest,0.004250974
+Heart Arrest,0.004248917
+Biliary Tract Neoplasms,0.004229516
+Anovulation,0.004228324
+Asphyxia,0.004212827
+Mitral Valve Stenosis,0.004208475
+"Pregnancy Complications, Hematologic",0.004188657
+Anal Gland Neoplasms,0.004184902
+Metrorrhagia,0.004175752
+Barrett Esophagus,0.004142553
+Atypical Squamous Cells of the Cervix,0.004131854
+Nelson Syndrome,0.00412178
+Cyclodialysis Clefts,0.004111856
+Mucopolysaccharidosis VI,0.004065275
+"Porphyria, Erythropoietic",0.004059732
+Port-Wine Stain,0.004054278
+Postpartum Hemorrhage,0.004050404
+"Blood Coagulation Disorders, Inherited",0.004039437
+Brenner Tumor,0.004026175
+"Coma, Post-Head Injury",0.004018754
+Gastrinoma,0.003995389
+"Carcinoma, Hepatocellular",0.003976554
+Uterine Cervical Neoplasms,0.003961444
+Primary Ovarian Insufficiency,0.003933936
+"Spherocytosis, Hereditary",0.003917515
+Fetal Diseases,0.003914595
+Lens Subluxation,0.00388968
+Medullary Sponge Kidney,0.003866702
+Adenocarcinoma in Situ,0.003866583
+Ureteral Neoplasms,0.003863126
+"Adenoma, Liver Cell",0.003848195
+Cerebellar Diseases,0.003832698
+Liver Neoplasms,0.003830791
+Colorectal Neoplasms,0.003830731
+Colonic Neoplasms,0.003830731
+Gastrointestinal Neoplasms,0.003830731
+Intestinal Neoplasms,0.003830731
+"Liver Neoplasms, Experimental",0.003830731
+"Genital Neoplasms, Male",0.003825098
+Prostatic Neoplasms,0.003825098
+Fused Kidney,0.003805578
+"Carcinoma, Renal Cell",0.003798574
+Parovarian Cyst,0.00378567
+Hydatidiform Mole,0.003785491
+Sickle Cell Trait,0.003768981
+Gestational Trophoblastic Disease,0.003748894
+Thecoma,0.003738582
+Proteus Syndrome,0.003735453
+Common Bile Duct Neoplasms,0.003724426
+Urinary Bladder Neoplasms,0.003695607
+"Leukemia, Myelomonocytic, Juvenile",0.003670394
+Intra-Abdominal Hypertension,0.003663957
+Hypertension,0.003661037
+Leydig Cell Tumor,0.003653199
+Oculomotor Nerve Injuries,0.003652394
+Nuchal Cord,0.003649235
+Frontotemporal Dementia,0.003636181
+Discrete Subaortic Stenosis,0.00363344
+Hemophilia B,0.00356257
+Glycogen Storage Disease Type VII,0.003555149
+Renal Nutcracker Syndrome,0.003539473
+"Lysosomal Storage Diseases, Nervous System",0.003538579
+Arterio-Arterial Fistula,0.003531963
+Rothmund-Thomson Syndrome,0.003529459
+Hyperargininemia,0.003517896
+Sleep-Wake Transition Disorders,0.003517866
+Retinal Telangiectasis,0.003505111
+Acrodynia,0.003491849
+Hyperoxaluria,0.003472
+Maxillary Sinus Neoplasms,0.00346604
+Ureterolithiasis,0.003439099
+Urolithiasis,0.003439069
+Nephrolithiasis,0.003439069
+"Anemia, Hemolytic",0.003430963
+Exfoliation Syndrome,0.003403872
+Heart Neoplasms,0.003403395
+Kidney Neoplasms,0.003390819
+Vaginal Neoplasms,0.00336507
+Synesthesia,0.00334096
+Alexander Disease,0.003304303
+Insulinoma,0.003300607
+"Carcinoma, Islet Cell",0.003268778
+Fetal Alcohol Spectrum Disorders,0.003246725
+Bile Duct Neoplasms,0.003246576
+Pelizaeus-Merzbacher Disease,0.003244847
+"Shock, Cardiogenic",0.003229976
+Factor XIII Deficiency,0.003204882
+Urologic Neoplasms,0.003187805
+Telangiectasis,0.003141761
+Shaken Baby Syndrome,0.003085345
+Retrocaval Ureter,0.003077894
+Fetal Resorption,0.003073752
+Lingual Thyroid,0.003054202
+"Adenoma, Islet Cell",0.003049493
+Neuronal Ceroid-Lipofuscinoses,0.003025651
+Sleep Bruxism,0.003004909
+"Myopia, Degenerative",0.002981514
+"Gangliosidoses, GM2",0.002971679
+"Cardiomyopathy, Alcoholic",0.002942115
+Tricuspid Valve Stenosis,0.002924383
+Androgen-Insensitivity Syndrome,0.002916843
+Vertebrobasilar Insufficiency,0.002900511
+Spinal Cord Ischemia,0.002900511
+Subclavian Steal Syndrome,0.002900511
+Spinal Cord Vascular Diseases,0.002900511
+Intracranial Embolism and Thrombosis,0.002900511
+Intracranial Aneurysm,0.002900481
+Vascular Headaches,0.002900213
+Bartter Syndrome,0.002898127
+Ectopia Cordis,0.002897203
+Crisscross Heart,0.002897203
+Intracranial Thrombosis,0.002895981
+"Hyperglycinemia, Nonketotic",0.00289166
+"Hypertrophy, Left Ventricular",0.002887785
+"Leukemia, Myeloid, Accelerated Phase",0.002872258
+Myopia,0.002870619
+Hemoglobin C Disease,0.002869844
+Friedreich Ataxia,0.002869099
+"Lead Poisoning, Nervous System, Childhood",0.002863765
+Sandhoff Disease,0.002858579
+Anterior Spinal Artery Syndrome,0.002841532
+Meigs Syndrome,0.002837449
+Carney Complex,0.002835393
+Tumor Lysis Syndrome,0.002813339
+"Vasospasm, Intracranial",0.002810419
+Carotid Stenosis,0.002807081
+"Colorectal Neoplasms, Hereditary Nonpolyposis",0.002805233
+Cavernous Sinus Thrombosis,0.002786428
+Nephrocalcinosis,0.002778143
+"Leukemia, Erythroblastic, Acute",0.002775341
+Aortic Valve Prolapse,0.002772003
+Alcohol Withdrawal Delirium,0.002757549
+Gaucher Disease,0.002751827
+Giant Axonal Neuropathy,0.00275141
+Thyroid Dysgenesis,0.002748042
+Obesity Hypoventilation Syndrome,0.002738744
+Unilateral Breast Neoplasms,0.002727389
+"Toxoplasmosis, Congenital",0.002721459
+"Lipomatosis, Multiple Symmetrical",0.002705514
+"Myoclonic Epilepsies, Progressive",0.002696216
+"Leukodystrophy, Globoid Cell",0.00269568
+Angiodysplasia,0.002693057
+"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative",0.002690852
+Single Umbilical Artery,0.002689987
+Pulmonary Atresia,0.002687514
+Paranasal Sinus Neoplasms,0.002684802
+Multiple Endocrine Neoplasia Type 1,0.002680063
+Shwartzman Phenomenon,0.002676547
+Urethral Neoplasms,0.002674371
+Rectal Neoplasms,0.002667308
+"Erythroblastosis, Fetal",0.002666861
+Hyperandrogenism,0.002665758
+"Dendritic Cell Sarcoma, Interdigitating",0.002665609
+"46, XX Disorders of Sex Development",0.002663106
+Maternal Death,0.002653182
+"Hypoxia, Brain",0.002645731
+Primary Dysautonomias,0.002645731
+Autonomic Nervous System Diseases,0.002645731
+Cardiovascular Abnormalities,0.002638489
+Encephalomalacia,0.002637565
+Thoracic Outlet Syndrome,0.002635539
+Breast Cyst,0.002623946
+"Lymphoma, Primary Effusion",0.002613038
+Lipodystrophy,0.002611071
+Langerhans Cell Sarcoma,0.002599746
+Cor Triatriatum,0.002584457
+Spina Bifida Cystica,0.002583832
+Diffuse Intrinsic Pontine Glioma,0.002567381
+Atypical Hemolytic Uremic Syndrome,0.002558053
+Retinal Drusen,0.002555311
+Hemolytic-Uremic Syndrome,0.002548724
+"Foramen Ovale, Patent",0.002547503
+Wet Macular Degeneration,0.002530515
+Nocturnal Paroxysmal Dystonia,0.002506048
+Anisometropia,0.00250411
+Gastroschisis,0.002498388
+Intracranial Embolism,0.00249508
+"Neoplasm Recurrence, Local",0.002489626
+"Sinus Thrombosis, Intracranial",0.00248152
+Pure Autonomic Failure,0.002478272
+"Polycystic Kidney, Autosomal Recessive",0.002469182
+"Ichthyosis, X-Linked",0.002454698
+Elephantiasis,0.002444506
+Night Terrors,0.002436638
+"Neoplastic Syndromes, Hereditary",0.002432466
+Idiopathic Hypersomnia,0.002426446
+Embryo Loss,0.002424151
+Carotid Artery Thrombosis,0.002423823
+Multifocal Choroiditis,0.002423614
+Stroke,0.002411395
+Cerebrovascular Disorders,0.002411395
+Cerebral Arterial Diseases,0.002411395
+Intracranial Arterial Diseases,0.002411395
+Ovarian Neoplasms,0.002407014
+Sagittal Sinus Thrombosis,0.00240615
+"Skin Diseases, Metabolic",0.002376199
+delta-Thalassemia,0.0023745
+Urogenital Neoplasms,0.002371699
+Ovarian Cysts,0.002370447
+Polycystic Ovary Syndrome,0.002370447
+Somnambulism,0.002361864
+"Amyloid Neuropathies, Familial",0.002361476
+Postural Orthostatic Tachycardia Syndrome,0.002358943
+Insulin Coma,0.002357125
+Sleep Paralysis,0.002351761
+Cocarcinogenesis,0.0023489
+Kleine-Levin Syndrome,0.00234744
+"Epilepsy, Rolandic",0.002342433
+Sleep Arousal Disorders,0.002342433
+Nocturnal Myoclonus Syndrome,0.002340764
+Cataplexy,0.002340704
+Restless Legs Syndrome,0.002340674
+Dyssomnias,0.002340674
+Disorders of Excessive Somnolence,0.002340674
+"Sleep Disorders, Intrinsic",0.002340674
+REM Sleep Behavior Disorder,0.002340674
+Narcolepsy,0.002340674
+Sleep Initiation and Maintenance Disorders,0.002340674
+REM Sleep Parasomnias,0.002340674
+Parasomnias,0.002340674
+Basal Ganglia Cerebrovascular Disease,0.002337545
+Cobblestone Lissencephaly,0.002337009
+"Gonadal Dysgenesis, 46,XY",0.002325833
+Choledochal Cyst,0.002246946
+Cerebrovascular Trauma,0.002241284
+"Intracranial Hemorrhage, Traumatic",0.002241254
+Vertebral Artery Dissection,0.002241254
+"Carotid Artery, Internal, Dissection",0.002240449
+Adrenogenital Syndrome,0.002237916
+Pseudohypoaldosteronism,0.002235323
+Hypersplenism,0.002232671
+Vitamin K Deficiency,0.002230614
+Ovotesticular Disorders of Sex Development,0.002223343
+Sphingolipidoses,0.002207905
+Frontotemporal Lobar Degeneration,0.002193838
+Endomyocardial Fibrosis,0.002193809
+Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.002192408
+Levocardia,0.002183735
+"Cell Transformation, Viral",0.002171814
+Tyrosinemias,0.002165556
+Congenitally Corrected Transposition of the Great Arteries,0.002163202
+"Nevus, Sebaceous of Jadassohn",0.002162069
+Hemimegalencephaly,0.002144516
+"Carcinoma, Ovarian Epithelial",0.002132326
+Schizencephaly,0.002131641
+Cardiomyopathies,0.002129585
+Ventricular Outflow Obstruction,0.002129585
+Mitral Valve Insufficiency,0.002129585
+Heart Valve Diseases,0.002129585
+Aortic Valve Stenosis,0.002129585
+"Cardiomyopathy, Dilated",0.002129585
+Heart Failure,0.002129465
+Pulmonary Valve Stenosis,0.002129465
+"Aortic Stenosis, Subvalvular",0.002129346
+"Cardiomyopathy, Hypertrophic",0.002129287
+Tricuspid Valve Insufficiency,0.002126873
+"Ventricular Dysfunction, Right",0.002126485
+Heart Valve Prolapse,0.002112746
+Neonatal Brachial Plexus Palsy,0.002111912
+Mitral Valve Prolapse,0.002109468
+Trilogy of Fallot,0.002108842
+Neurocutaneous Syndromes,0.002099305
+Pentalogy of Cantrell,0.002092451
+"Stenosis, Pulmonary Artery",0.002074212
+Glucagonoma,0.002073228
+Renal Aminoacidurias,0.002071768
+Pelger-Huet Anomaly,0.002067328
+Endocardial Fibroelastosis,0.002053082
+"Jaundice, Neonatal",0.002052665
+Denys-Drash Syndrome,0.002049834
+Dent Disease,0.002044648
+Prehypertension,0.002042621
+Anemia,0.002039313
+"Cell Transformation, Neoplastic",0.002031177
+Venous Thromboembolism,0.002030522
+"Heart Failure, Diastolic",0.002029657
+"Hernia, Umbilical",0.002021611
+"Disorder of Sex Development, 46,XY",0.002016693
+Cystinuria,0.002016127
+Geographic Atrophy,0.002012551
+"Hernias, Diaphragmatic, Congenital",0.002006918
+Myotonic Disorders,0.002003342
+"Fibromatosis, Plantar",0.002000123
+"Cardiomyopathy, Restrictive",0.001995176
+Multicystic Dysplastic Kidney,0.001992106
+Gonadoblastoma,0.001990348
+"Brain Hemorrhage, Traumatic",0.001987636
+Bone Marrow Failure Disorders,0.001981616
+Pulmonary Valve Insufficiency,0.001953661
+"Anemia, Hypochromic",0.001951426
+Birdshot Chorioretinopathy,0.001938552
+Commotio Cordis,0.00191772
+Factor X Deficiency,0.001915157
+Aortic Valve Insufficiency,0.001894295
+Necrobiotic Xanthogranuloma,0.001891762
+"Diabetes, Gestational",0.001885295
+Pars Planitis,0.001881063
+Lateral Sinus Thrombosis,0.00187704
+"Carcinoma, Lobular",0.001875103
+Optic Nerve Diseases,0.001865774
+Tay-Sachs Disease,0.001865059
+Adenomatous Polyposis Coli,0.001829863
+"Cerebral Hemorrhage, Traumatic",0.001829296
+Karoshi Death,0.001826733
+"Heart Failure, Systolic",0.00181517
+Mucopolysaccharidosis IV,0.0018121
+Anus Neoplasms,0.001811922
+Sertoli-Leydig Cell Tumor,0.001808673
+Lennox Gastaut Syndrome,0.001805663
+Hypotension,0.001794905
+Pulmonary Heart Disease,0.001794905
+"Aortic Stenosis, Supravalvular",0.001794905
+"Muscular Disorders, Atrophic",0.001792252
+"Dementia, Vascular",0.001790524
+Mucopolysaccharidosis VII,0.001781106
+"Breast Neoplasms, Male",0.001776367
+Mucopolysaccharidosis III,0.001767665
+"Renal Tubular Transport, Inborn Errors",0.001765788
+Mucopolysaccharidosis I,0.001764894
+Piebaldism,0.001763195
+Sebaceous Gland Neoplasms,0.00175494
+Univentricular Heart,0.001751304
+Platelet Storage Pool Deficiency,0.001751244
+Perinatal Death,0.001748979
+Pancreatic Neoplasms,0.001743436
+Optic Nerve Injuries,0.001734525
+"Hyperbilirubinemia, Neonatal",0.001734465
+Muir-Torre Syndrome,0.001734436
+Myoclonic Cerebellar Dyssynergia,0.001733154
+Stillbirth,0.001728892
+Mucopolysaccharidoses,0.001721412
+Yellow Nail Syndrome,0.001713574
+"Ischemic Attack, Transient",0.001711875
+Cardiac Conduction System Disease,0.001708895
+Uveal Effusion Syndrome,0.001704663
+"Anterior Capsular Rupture, Ocular",0.001704663
+Pre-Excitation Syndromes,0.001698583
+"Carcinoma, Endometrioid",0.001689881
+Carcinogenesis,0.001688302
+Meibomian Gland Dysfunction,0.001686782
+Tangier Disease,0.001683593
+Pinguecula,0.001678467
+Factor XI Deficiency,0.001676828
+Cryptorchidism,0.001674712
+"Anemia, Iron-Deficiency",0.001670599
+"Tachycardia, Sinoatrial Nodal Reentry",0.001667112
+"Intracranial Hemorrhage, Hypertensive",0.001663536
+Familial Hypophosphatemic Rickets,0.001657188
+Lymphedema,0.001654178
+Pallister-Hall Syndrome,0.001653612
+Hypospadias,0.001651228
+Intracranial Arteriosclerosis,0.001645595
+Scurvy,0.001634985
+Carotid Artery Diseases,0.001625896
+Moyamoya Disease,0.001625478
+Cerebral Small Vessel Diseases,0.001623839
+Ehlers-Danlos Syndrome,0.001604378
+Triple Negative Breast Neoplasms,0.001596421
+Breast Neoplasms,0.00158754
+Sturge-Weber Syndrome,0.001582325
+Anencephaly,0.001576126
+Lymphangiectasis,0.001576096
+Transfusion-Related Acute Lung Injury,0.001533955
+"Elliptocytosis, Hereditary",0.001497537
+"Hypophosphatemia, Familial",0.001494467
+"Heredodegenerative Disorders, Nervous System",0.001494199
+Eisenmenger Complex,0.001491904
+Hand-Arm Vibration Syndrome,0.001491159
+Varicocele,0.001488864
+Urinary Calculi,0.001488447
+Kidney Calculi,0.001488268
+Ureteral Calculi,0.001488268
+Fetal Death,0.001488179
+Hyphema,0.001478225
+"Tay-Sachs Disease, AB Variant",0.001462162
+Somatostatinoma,0.001461744
+Polycythemia,0.001451343
+"Ductus Arteriosus, Patent",0.001448959
+Heart Septal Defects,0.001448929
+"Heart Defects, Congenital",0.001448929
+Disorders of Sex Development,0.001447678
+Factor V Deficiency,0.001445562
+Polymicrogyria,0.001443029
+Leukemoid Reaction,0.001442939
+"Heart Septal Defects, Ventricular",0.001442701
+"von Willebrand Disease, Type 1",0.001441628
+"Subarachnoid Hemorrhage, Traumatic",0.00143972
+"Refsum Disease, Infantile",0.001437962
+Kasabach-Merritt Syndrome,0.001437008
+Ebstein Anomaly,0.001436353
+LEOPARD Syndrome,0.001435369
+"Brain Stem Hemorrhage, Traumatic",0.001429766
+"Anemia, Sideroblastic",0.0014292
+Transposition of Great Vessels,0.00142777
+Hyperlysinemias,0.001423121
+"Adrenal Hyperplasia, Congenital",0.001410246
+Carotid Artery Injuries,0.001409739
+Dandy-Walker Syndrome,0.001405716
+Subacute Combined Degeneration,0.001400471
+Lissencephaly,0.001400203
+Coffin-Lowry Syndrome,0.001396656
+Urogenital Abnormalities,0.001395732
+Preleukemia,0.001382798
+Vitreous Detachment,0.001377195
+"Anemia, Hemolytic, Congenital",0.001374334
+Pancreatic Intraductal Neoplasms,0.001374096
+Malformations of Cortical Development,0.001369625
+"Truncus Arteriosus, Persistent",0.001368582
+Machado-Joseph Disease,0.001366109
+Spinocerebellar Degenerations,0.001366109
+Spinocerebellar Ataxias,0.001366109
+Aortopulmonary Septal Defect,0.001365632
+Lymphocele,0.001361102
+Classical Lissencephalies and Subcortical Band Heterotopias,0.001352042
+Lutembacher Syndrome,0.001350731
+"Malformations of Cortical Development, Group II",0.001338989
+"Malformations of Cortical Development, Group I",0.001338989
+Arcus Senilis,0.001337171
+Smith-Magenis Syndrome,0.001336694
+Laurence-Moon Syndrome,0.001327097
+Tetralogy of Fallot,0.001323193
+Optic Disk Drusen,0.001321852
+Acrocallosal Syndrome,0.001321524
+"Embolism, Amniotic Fluid",0.001319349
+Opsoclonus-Myoclonus Syndrome,0.00131169
+Farber Lipogranulomatosis,0.001309395
+Jervell-Lange Nielsen Syndrome,0.001307309
+De Lange Syndrome,0.001304209
+Cri-du-Chat Syndrome,0.00130409
+Fragile X Syndrome,0.001303524
+Rett Syndrome,0.001303524
+Down Syndrome,0.001303524
+Angelman Syndrome,0.001303524
+"Mental Retardation, X-Linked",0.001303524
+"Cardiomyopathy, Hypertrophic, Familial",0.001299679
+Optic Nerve Neoplasms,0.001295865
+Ocular Motility Disorders,0.001289725
+Periventricular Nodular Heterotopia,0.001285493
+Retinal Hemorrhage,0.001275718
+Trisomy 18 Syndrome,0.001273155
+Isolated Noncompaction of the Ventricular Myocardium,0.001270771
+"Heart Septal Defects, Atrial",0.001246631
+Noonan Syndrome,0.001241207
+"Cardiac Complexes, Premature",0.001235813
+Arrhythmogenic Right Ventricular Dysplasia,0.001234025
+Double Outlet Right Ventricle,0.001226038
+"Brain Diseases, Metabolic",0.001214504
+Brain Ischemia,0.00121069
+Endocardial Cushion Defects,0.001208484
+Encephalocele,0.001205355
+Sudden Unexpected Death in Epilepsy,0.001204073
+Carbamoyl-Phosphate Synthase I Deficiency Disease,0.001194835
+Hypoplastic Left Heart Syndrome,0.001191616
+Argininosuccinic Aciduria,0.001172572
+"Tachycardia, Paroxysmal",0.001162618
+Vitreous Hemorrhage,0.001156896
+Ventricular Flutter,0.00115025
+Hypopituitarism,0.001147419
+"Carcinoma, Pancreatic Ductal",0.001126558
+Central Nervous System Venous Angioma,0.001116782
+Cerebral Amyloid Angiopathy,0.001116186
+Interatrial Block,0.001114547
+Central Nervous System Vascular Malformations,0.001106054
+"Death, Sudden, Cardiac",0.001093805
+Holoprosencephaly,0.00108552
+Bundle-Branch Block,0.00108245
+Rubinstein-Taybi Syndrome,0.001081109
+Megalencephaly,0.001078486
+Meningocele,0.001076162
+Wolff-Parkinson-White Syndrome,0.001067996
+"Muscular Dystrophy, Duchenne",0.001065522
+Microcephaly,0.001062006
+Myotonic Dystrophy,0.001061738
+Cervical Rib Syndrome,0.001055181
+"Gonadal Dysgenesis, Mixed",0.001055181
+Fetal Growth Retardation,0.00104788
+Ventricular Fibrillation,0.001042455
+Brugada Syndrome,0.001039654
+Retinal Detachment,0.001037657
+Myotoxicity,0.00103572
+Muscular Dystrophies,0.001028001
+"Gonadal Dysgenesis, 46,XX",0.001015753
+Multiple Sulfatase Deficiency Disease,0.001013845
+"Urea Cycle Disorders, Inborn",0.00100556
+"Dwarfism, Pituitary",0.00098756
+"von Willebrand Disease, Type 3",0.000985533
+"Neurofibroma, Plexiform",0.000980288
+Neurofibroma,0.000980109
+"Vitreoretinopathy, Proliferative",0.000976086
+"von Willebrand Disease, Type 2",0.000968069
+Thrombophilia,0.000961065
+Ornithine Carbamoyltransferase Deficiency Disease,0.000959754
+Acromegaly,0.000958145
+Canavan Disease,0.000950217
+Sea-Blue Histiocyte Syndrome,0.000945002
+Gyrate Atrophy,0.00094232
+Barth Syndrome,0.000938386
+Vitamin K Deficiency Bleeding,0.000929266
+Gonadal Dysgenesis,0.000928938
+Sex Chromosome Disorders of Sex Development,0.000928938
+Klinefelter Syndrome,0.000928938
+Corneal Edema,0.000904769
+Mitochondrial Encephalomyopathies,0.000900954
+Mitochondrial Myopathies,0.000900954
+"Anemia, Hemolytic, Congenital Nonspherocytic",0.000884473
+von Hippel-Lindau Disease,0.000882089
+Pigmentation Disorders,0.000881463
+Fucosidosis,0.000862896
+Lymphatic Abnormalities,0.000862151
+Familial Exudative Vitreoretinopathies,0.000855029
+Parasystole,0.000847638
+Carcinoid Heart Disease,0.000846505
+Heterotaxy Syndrome,0.000838965
+Factor VII Deficiency,0.000837445
+Congenital Bone Marrow Failure Syndromes,0.000835568
+Hypoprothrombinemias,0.000833601
+Fanconi Anemia,0.000831723
+"Corneal Dystrophy, Juvenile Epithelial of Meesmann",0.000827283
+Glucosephosphate Dehydrogenase Deficiency,0.000826716
+Thrombasthenia,0.000819266
+Zellweger Syndrome,0.000819057
+Glycogen Storage Disease Type II,0.000807852
+Jacobsen Distal 11q Deletion Syndrome,0.00080508
+"Hematoma, Subdural",0.000800937
+Hemoglobinopathies,0.000793606
+"Anemia, Neonatal",0.000793576
+alpha-Thalassemia,0.000793546
+Fetofetal Transfusion,0.000793546
+Thalassemia,0.000793546
+"Anemia, Hypoplastic, Congenital",0.000792503
+"Hematoma, Subdural, Chronic",0.000790924
+Fetomaternal Transfusion,0.000789195
+"Anemia, Diamond-Blackfan",0.000787318
+"Hematoma, Epidural, Cranial",0.000786394
+Gangliosidoses,0.0007855
+"Leukodystrophy, Metachromatic",0.00078249
+"Anemia, Dyserythropoietic, Congenital",0.000782341
+Stargardt Disease,0.000778675
+Epiretinal Membrane,0.000774473
+"Hematoma, Subdural, Intracranial",0.000771999
+Refractive Errors,0.00077185
+Brain Death,0.000766128
+Intracranial Arteriovenous Malformations,0.000756651
+Bernard-Soulier Syndrome,0.000748724
+Sulfatidosis,0.000743896
+Retinal Perforations,0.000742763
+Macular Degeneration,0.0007357
+Wilms Tumor,0.00072825
+Xeroderma Pigmentosum,0.000716954
+Sialic Acid Storage Disease,0.000709981
+Ataxia Telangiectasia,0.000709951
+"Hematoma, Subdural, Acute",0.000709742
+Retinal Arterial Macroaneurysm,0.000705838
+Brain Stem Infarctions,0.000690848
+Lateral Medullary Syndrome,0.000690758
+Refsum Disease,0.000687271
+Maple Syrup Urine Disease,0.000683904
+Subarachnoid Hemorrhage,0.000682801
+Pyruvate Carboxylase Deficiency Disease,0.000681698
+"Niemann-Pick Disease, Type A",0.000679553
+"Gangliosidosis, GM1",0.00067687
+Citrullinemia,0.000676543
+Hereditary Central Nervous System Demyelinating Diseases,0.000674248
+"Hemangioma, Cavernous, Central Nervous System",0.000672847
+Pyruvate Dehydrogenase Complex Deficiency Disease,0.000672042
+Leigh Disease,0.000670493
+Lesch-Nyhan Syndrome,0.000670016
+Galactosemias,0.000669807
+"Brain Diseases, Metabolic, Inborn",0.000669807
+Prader-Willi Syndrome,0.000669807
+Phenylketonurias,0.000669777
+Fabry Disease,0.00066641
+Optic Nerve Hypoplasia,0.000654191
+Retinoschisis,0.000651985
+"Posterior Capsular Rupture, Ocular",0.000648141
+Hyperpituitarism,0.000638247
+Cerebral Infarction,0.000630379
+Brain Infarction,0.000630379
+"Infarction, Middle Cerebral Artery",0.000630319
+Retinal Diseases,0.000630289
+Retinal Dystrophies,0.000630289
+Retinal Degeneration,0.000630289
+Corneal Wavefront Aberration,0.00062722
+Capsule Opacification,0.000609636
+"Stroke, Lacunar",0.000606477
+Favism,0.000603378
+Splenic Infarction,0.00060308
+"Aphakia, Postcataract",0.00059545
+Presbyopia,0.000588626
+Intracranial Hemorrhages,0.000583977
+Hyperopia,0.000583202
+"Infarction, Anterior Cerebral Artery",0.000580877
+Mandibulofacial Dysostosis,0.000580728
+von Willebrand Diseases,0.000580281
+Optic Nerve Glioma,0.000579834
+"Infarction, Posterior Cerebral Artery",0.00057745
+HIV-Associated Lipodystrophy Syndrome,0.000570416
+Putaminal Hemorrhage,0.000562698
+Sinoatrial Block,0.000562638
+Leber Congenital Amaurosis,0.000562429
+Primary Graft Dysfunction,0.000561416
+Aphakia,0.00056091
+Macular Edema,0.000558436
+Basal Ganglia Hemorrhage,0.000552475
+Cone Dystrophy,0.000544429
+Reperfusion Injury,0.000543267
+Accelerated Idioventricular Rhythm,0.000532299
+Peutz-Jeghers Syndrome,0.000521004
+Tuberous Sclerosis,0.000520349
+Astigmatism,0.000517041
+Shy-Drager Syndrome,0.00051558
+"Arrhythmia, Sinus",0.000507206
+Cataract,0.000506103
+Lens Diseases,0.000506073
+Duane Retraction Syndrome,0.000502497
+Sick Sinus Syndrome,0.000501096
+Artificial Lens Implant Migration,0.000492781
+Atrioventricular Block,0.000483274
+Niemann-Pick Diseases,0.00044322
+"Tachycardia, Sinus",0.000441581
+Neurofibromatosis 1,0.000441045
+Neurofibromatoses,0.000441045
+"Paralysis, Hyperkalemic Periodic",0.000437945
+"Tachycardia, Ectopic Atrial",0.000434548
+Cerebral Hemorrhage,0.000430048
+Cardiomegaly,0.000430018
+"Tachycardia, Supraventricular",0.000429809
+Atrial Fibrillation,0.0004296
+"Sinus Arrest, Cardiac",0.000423133
+"Niemann-Pick Disease, Type B",0.00042215
+"Tachycardia, Atrioventricular Nodal Reentry",0.000419885
+Adrenoleukodystrophy,0.000419796
+"Tachycardia, Reciprocating",0.000417888
+Ventricular Premature Complexes,0.00041464
+Chediak-Higashi Syndrome,0.000414193
+Mucolipidoses,0.000413567
+"Phenylketonuria, Maternal",0.000412524
+"Tachycardia, Ectopic Junctional",0.000410885
+Cardiotoxicity,0.000405252
+"Paralyses, Familial Periodic",0.000400037
+Cockayne Syndrome,0.000396162
+Atrial Premature Complexes,0.000394315
+MERRF Syndrome,0.000388742
+Heart Block,0.00038591
+"Hypertrophy, Right Ventricular",0.000384539
+"Arrhythmias, Cardiac",0.000381619
+Tachycardia,0.000381619
+"Tachycardia, Ventricular",0.000381619
+Torsades de Pointes,0.000381559
+Adams-Stokes Syndrome,0.000380546
+Sinus Pericranii,0.000379771
+"Optic Neuropathy, Ischemic",0.000379413
+"Niemann-Pick Disease, Type C",0.000370055
+Atrial Flutter,0.000369817
+Bradycardia,0.000363737
+Mucopolysaccharidosis II,0.000357181
+Menkes Kinky Hair Syndrome,0.000353694
+Retinopathy of Prematurity,0.00033766
+Eye Abnormalities,0.000337541
+Retinitis Pigmentosa,0.000334948
+"Dementia, Multi-Infarct",0.000324786
+Cone-Rod Dystrophies,0.000323623
+Anophthalmos,0.000322163
+Retinal Dysplasia,0.000321209
+Aniridia,0.00032112
+Choroideremia,0.000320822
+Blepharophimosis,0.0003196
+Breast Cancer Lymphedema,0.000314623
+Dyskeratosis Congenita,0.000313818
+Myocardial Reperfusion Injury,0.000312239
+CHARGE Syndrome,0.000310838
+"Hypoxia-Ischemia, Brain",0.000310838
+Coloboma,0.000302017
+"Eye Diseases, Hereditary",0.000301987
+Microphthalmos,0.00030002
+Hartnup Disease,0.000298768
+Bland White Garland Syndrome,0.000293762
+Post-Exercise Hypotension,0.000292152
+Hereditary Breast and Ovarian Cancer Syndrome,0.000284314
+"Hypotension, Orthostatic",0.000276446
+Vein of Galen Malformations,0.000252455
+Long QT Syndrome,0.00024727
+Agenesis of Corpus Callosum,0.000243902
+Cogan Syndrome,0.000239968
+Andersen Syndrome,0.000231564
+Romano-Ward Syndrome,0.000231564
+Walker-Warburg Syndrome,0.000210434
+Turner Syndrome,0.000193745
+Oculocerebrorenal Syndrome,0.000190914
+"Telangiectasia, Hereditary Hemorrhagic",0.000189722
+"Optic Atrophy, Hereditary, Leber",0.000183254
+"Leukomalacia, Periventricular",0.000175685
+CADASIL,0.000174433
+Optic Atrophy,0.000166953
+Trisomy 13 Syndrome,0.000161052
+Williams Syndrome,0.000151515
+Carotid-Cavernous Sinus Fistula,0.000151247
+"Cerebral Amyloid Angiopathy, Familial",0.000113699
+Glycogen Storage Disease Type IIb,0.000109339
+Retinal Neovascularization,1.00E-04
+22q11 Deletion Syndrome,9.80E-05
+DiGeorge Syndrome,9.80E-05
+MELAS Syndrome,9.24E-05
+Aicardi Syndrome,9.15E-05
+Wolfram Syndrome,8.44E-05
+Alstrom Syndrome,7.86E-05
+"Optic Atrophies, Hereditary",7.18E-05
+Post-Cardiac Arrest Syndrome,7.09E-05
+"Nystagmus, Congenital",5.97E-05
+Bardet-Biedl Syndrome,5.39E-05
+Cerebral Intraventricular Hemorrhage,5.30E-05
+"Optic Atrophy, Autosomal Dominant",3.68E-05
+Toxic Optic Neuropathy,2.94E-05
+"Albinism, Ocular",2.48E-05
+Albinism,2.45E-05
+"Albinism, Oculocutaneous",2.30E-05
+Kernicterus,2.16E-05
+WAGR Syndrome,5.88E-06
+Hermanski-Pudlak Syndrome,4.53E-06
+Nutrition Disorders,
+Overnutrition,
+Nutritional and Metabolic Diseases,

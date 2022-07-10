@@ -1,0 +1,31 @@
+,disA,disB,scoreAB,scoreBA,aveScore
+0,Myelodysplastic Syndromes,"Leukemia, Myeloid",0.74332917,0.24733567,0.49533242
+1,"Leukemia, Lymphoid","Anemia, Hemolytic",0.97001,0.7963784,0.8831942
+2,Tonsillar Neoplasms,Dental Caries,0.96151996,0.6934006,0.8274602799999999
+3,Asthma,Status Asthmaticus,0.9316004,0.9343863,0.93299335
+4,"Leukemia, Lymphoid",Herpes Zoster,0.004159987,0.014375776,0.0092678815
+5,"Kidney Failure, Chronic",Peritonitis,0.7353825,0.783018,0.75920025
+6,"Lymphoma, Follicular",Herpes Zoster,0.04864946,0.09069198,0.06967072
+7,"Diabetes Mellitus, Type 1",Diabetes Mellitus,0.8875629,0.89026445,0.888913675
+8,Renal Insufficiency,Peritonitis,0.71254396,0.7686488,0.7405963799999999
+9,Laryngeal Neoplasms,Dental Caries,0.94846666,0.80069935,0.8745830050000001
+10,"Liver Diseases, Alcoholic",Peritonitis,0.2703666,0.15774521,0.214055905
+11,Asthma,Bronchiectasis,0.90213513,0.7960924,0.849113765
+12,"Diabetes Mellitus, Type 2",Diabetes Mellitus,0.85159564,0.837264,0.84442982
+13,Multiple Sclerosis,Trigeminal Nerve Diseases,0.90684044,0.9588555,0.93284797
+14,"Diabetes Mellitus, Type 2","Diabetes Mellitus, Type 1",0.8975845,0.7578266,0.82770555
+15,"Dermatitis, Atopic",Status Asthmaticus,0.17774612,0.3378235,0.25778481
+16,Multiple Sclerosis,Cystitis,0.2721246,0.017979503,0.1450520515
+17,Stroke,Cerebral Hemorrhage,0.7239574,0.9825947,0.8532760500000001
+18,Cerebral Hemorrhage,Epilepsy,0.38985044,0.546454,0.46815222
+19,"Diabetes Mellitus, Type 1","Kidney Failure, Chronic",0.80921704,0.7044832,0.75685012
+20,Brain Neoplasms,Neoplasms,0.78277004,0.71368337,0.748226705
+21,Stomach Ulcer,Stomach Neoplasms,0.73416996,0.7047938,0.71948188
+22,"Diabetes Mellitus, Type 1",Renal Insufficiency,0.81286967,0.7765451,0.7947073849999999
+23,"Diabetes Mellitus, Type 1",Malabsorption Syndromes,0.9471711,0.92070276,0.93393693
+24,Dental Caries,Neoplasms,0.82482654,0.61813545,0.7214809950000001
+25,Cardiomyopathies,Gout,0.0155875385,0.10962337,0.06260545425
+26,Gout,"Kidney Failure, Chronic",0.6649722,0.2690326,0.46700240000000004
+27,Stroke,Epilepsy,0.23445228,0.26989597,0.252174125
+28,Gout,Renal Insufficiency,0.5848193,0.27044976,0.42763453
+29,Laryngeal Neoplasms,Esophageal Neoplasms,0.93922937,0.33505118,0.6371402749999999
